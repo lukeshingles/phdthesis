@@ -1,0 +1,399 @@
+%% RSAA THESIS TEMPLATE, BY SIMON MURPHY <simon.murphy.nz@gmail.com>
+%% BASED ON THE ORIGINAL TEMPLATE BY LATEX GOD JOSHUA RICH <joshua.rich@gmail.com>
+%%
+%% README:
+% This template is designed to be used with pdflatex rather than plain
+% latex.  It was developed under a TeXLive 2010 TeX distribution on
+% a Mac, but should also work under Linux and earlier TeX distributions.
+%
+% For ANU requirements for typesetting and formatting see:
+% http://policies.anu.edu.au/guidelines/research_theses_submission_and_examination___information_for_higher_degree_research_students/guideline
+
+%%NOTES ABOUT THE DOCUMENT CLASS
+% Yes, I'm using a report style.  Any 'thesis style' you might
+% find or someone will give you is based on the standard report
+% class, but is probably well outdated compared to whatever TeX
+% you have installed.  Besides, why use that style file if you 
+% have no idea what it actually does?  You will probably just redefine
+% all of its customisations anyway...
+\documentclass[a4paper,11pt,openright]{report} 
+\include{macros}
+% define some constants that can be used in various places to easily
+% specify title, subjects, author etc.
+\newcommand{\thesistitle}{Neutron-Capture Nucleosynthesis and the Chemical Evolution of Globular Clusters}
+\newcommand{\fullname}{Luke Jeremy Shingles}
+\newcommand{\shortname}{L. J. Shingles}
+\newcommand{\thesissubjects}{astronomy,astrophysics}
+\newcommand{\thesisdate}{3rd August 2015} %\today
+\newcommand{\fullthesisdate}{30th July 2015} %used in disclaimer after signature
+\newcommand{\resubmissiondate}{30th September 2015}
+
+\usepackage[british]{babel}
+% ---------------------------------------------------------------------
+% page size and margins
+% ---------------------------------------------------------------------
+%%NOTES ABOUT GEOMETRY PACKAGE:
+% Below is using the geometry package as it is just cool.  This allows
+% you to directly specify the margin requirements as outlined by ANU
+% directly.  Here the inner border is 4cm and the outer is 2cm.  Top
+% and bottom are also 2cm.  This is much easier than trying to work
+% out page and margin dimensions by hand.  This is how you should use
+% LaTeX...
+\usepackage[pdftex]{geometry}
+\geometry{a4paper,twoside,includehead,hmargin={4cm,2.1cm},vmargin={2cm,2cm}}
+%\usepackage{showframe} for testing only
+
+% ---------------------------------------------------------------------
+% miscellaneous packages used
+% ---------------------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{captcont}
+\usepackage{array} % for setting line spacing in tables
+\usepackage{epigraph}
+\usepackage[nonumberlist,acronym]{glossaries}
+\DeclareGraphicsExtensions{.pdf}
+%\DeclareGraphicsExtensions{.eps}
+
+\usepackage{import}
+\usepackage{verbatim}
+\usepackage{listings}
+\usepackage{multicol,multirow}
+\include{glossary}
+
+\usepackage[twoside]{rotating}
+\usepackage{ctable} % for good looking tables
+\usepackage{longtable}
+\usepackage{xstring}
+\usepackage{xspace}
+\usepackage[bottom]{footmisc}
+\usepackage{pdflscape}
+% fonts
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage{newpxtext}
+\usepackage{newpxmath}
+%\usepackage{pxfonts}
+%\usepackage{tgheros,tgpagella}
+\renewcommand*\ttdefault{qcr}
+\linespread{1.25} % tgpagella/mathpazo need a bigger line spacing
+%\usepackage{times}
+%\usepackage{mathptmx} % use times font including math
+\usepackage{microtype}
+
+\usepackage{parskip}
+
+%%NOTES ABOUT CAPTION AND SUBFIG PACKAGES
+% I'm using the caption package to style my captions.
+% You need to read the documentation for this package (on CTAN) as it
+% has simple explanations of the options and examples of what it looks
+% like.
+%
+% The subfig package allows the ability to control in detail
+% positioning of sub-plots in a complex figure as well as add labels
+% to them, which can then be referenced in the text without the need
+% for changing the actual number as your sub-figures change.
+% The subfig package inherits options from the caption package, so
+% declare them together.
+%
+\usepackage[]{caption,subfig}
+\DeclareCaptionLabelSeparator{mysep}{\ \ \ }
+\captionsetup{format=plain,%
+  indention=0cm,%
+  labelsep=mysep,%
+  justification=justified,
+  labelfont={small,bf},%was footnotesize
+  textfont={small}}
+% bibliography uses natbib, this will be a requirement
+\usepackage[round]{natbib}
+% The hyperref package is a must while editing.  It provides urls
+% inside your document; you can then click to go to certain pages,
+% figures or bibliography entries.
+%
+% DEFINE MY CUSTOM COLORS
+%
+% change these to black if you want your citations and links nice and plain
+%
+\newcommand{\citecolor}{black}
+%\newcommand{\citecolor}{violet}
+\newcommand{\linkcolor}{black}
+\newcommand{\urlcolor}{black}
+%\newcommand{\urlcolor}{blue}
+\newcommand{\objectcolor}{gray}
+%
+\usepackage[hyperref,x11names]{xcolor}
+\usepackage[unicode,pageanchor,colorlinks=true,plainpages=false,pdfpagelabels,pdftex]{hyperref}
+\hypersetup{pdftitle=\thesistitle,%
+  pdfauthor=\shortname,%
+  pdfsubject={\thesissubjects},%
+  citebordercolor=\citecolor,%
+  linkbordercolor=\linkcolor,%
+  urlbordercolor=\urlcolor,%
+  citecolor=\citecolor,%
+  linkcolor=\linkcolor,%
+  urlcolor=\urlcolor%
+}
+% Stops figures and tables 'floating' past the section in which they
+% are declared.
+\usepackage[section]{placeins}
+\usepackage[titletoc]{appendix}
+
+\usepackage{ifthen}
+\usepackage{xifthen}
+% ---------------------------------------------------------------------
+% styles for header, footer, pages, bibliography
+% ---------------------------------------------------------------------
+%
+
+% chapter heading style
+% this is the 'Conny' style from the fncychap package, modified to
+% remove the two bold lines before the 'Chapter X' title.
+% For usage of this package, see:
+%  http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=fncychap
+%
+\usepackage{fncychap}
+\makeatletter
+\ChNameUpperCase
+% uncomment line below to convert all your chapter titles to CAPS
+%\ChTitleUpperCase  
+\ChNameVar{\centering\Huge\usefont{OT1}{qbk}{m}{n}\selectfont}
+\ChNumVar{\Huge}
+\ChTitleVar{\centering\Huge\usefont{OT1}{qbk}{m}{n}\selectfont}
+\ChRuleWidth{2pt}
+\renewcommand{\DOCH}{%
+  \CNV\FmN{\@chapapp}\space \CNoV\thechapter
+  \par\nobreak
+  \vskip -0.5\baselineskip
+}
+\renewcommand{\DOTI}[1]{%
+  \mghrulefill{\RW}\par\nobreak
+  \CTV\FmTi{#1}\par\nobreak
+  \vskip 60\p@
+}
+\renewcommand{\DOTIS}[1]{%
+  \mghrulefill{\RW}\par\nobreak
+  \CTV\FmTi{#1}\par\nobreak
+  \vskip 60\p@
+}
+
+%
+%%% page styles:
+%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{14pt} 
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}} 
+\renewcommand{\sectionmark}[1]{\markright{\thesection\hspace{3mm} #1}{}} 
+% redefine plain page style
+\fancypagestyle{plain}{
+\fancyhf{}
+\fancyhead[LE]{\usefont{OT1}{qbk}{m}{n}\selectfont \thepage}
+\fancyhead[RO]{\usefont{OT1}{qbk}{m}{n}\selectfont \thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+
+%
+% this next section (till \makeatother) makes sure that blank pages
+% are actually completely blank, cause they're not usually
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+	\hbox{}
+	\vspace*{\fill}
+	\thispagestyle{empty}
+	\newpage
+	\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+%
+%%% section header styles:
+%
+\usepackage[calcwidth]{titlesec}
+\titlelabel{\thetitle.\quad}
+
+% uncomment if you would like an index (make sure you actually define
+% index terms in your document as well...
+%\makeindex
+\makeglossaries
+
+% this contains various command definitions and other misc. options
+\begin{document}
+\pagenumbering{alph} %these are never displayed, but unique page identifiers are needed for hyperref
+
+% epigraph settings, for quotes at the start of introduction and conclusions
+\setlength{\epigraphwidth}{10cm}
+\setlength{\afterepigraphskip}{1.5cm}
+\renewcommand{\epigraphsize}{\small}
+\renewcommand{\epigraphrule}{0pt}
+\renewcommand{\epigraphflush}{center}
+\renewcommand{\textflush}{flushleft}
+\citestyle{aa}
+\pagestyle{empty}
+
+\newgeometry{twoside,includehead,hmargin={3cm,3cm},vmargin={2cm,2cm}}
+%
+%%% TITLE PAGE:
+%
+% This title-page is based on many bits of information found on the
+% Internet by searching for 'thesis title page latex'.  Packages are
+% also available on CTAN if you don't like this style and don't feel
+% confident creating a style yourself.
+%
+% Remove or change the \usefont..\selectfont if you don't have the
+% TeX Gyre Bonum font.
+%
+\begin{titlepage}\usefont{OT1}{qbk}{m}{n}\selectfont
+  \begin{center}
+  \phantom{}
+  \vspace{0cm}
+    \huge{\thesistitle}
+    \\[2.5cm]
+    \huge{\fullname}
+    \\[2.5cm]
+    \LARGE{A thesis submitted for the degree of}\\[0.5cm]
+      \LARGE{Doctor of Philosophy}\\[0.5cm]
+      \LARGE{of the Australian National University}
+    \\[3.cm]
+     \includegraphics[width=0.5\textwidth]{anu-logo-colour}
+     \\[10mm]
+        \LARGE{Research School of Astronomy \& Astrophysics}
+        \vfill
+        \Large{Submitted \thesisdate}\\[1mm]
+% Uncomment this line when you print your final library copy        
+        \Large{Accepted \resubmissiondate}
+  \end{center}
+\end{titlepage}
+\restoregeometry
+
+
+%remove if using the parskip package instead
+%\setlength{\parindent}{0pt}
+\setlength{\parskip}{2.5ex plus 0.5ex minus 0.3ex}
+
+%\cleardoublepage
+
+%\begin{comment}
+% PREFACE TO ELECTRONIC COPY
+% remember to change bib style file to "astroads" for the PDF copy
+%%% COMMENT THIS OUT FOR THE PRINT COPY
+%\setcounter{page}{1}
+%\phantomsection\addcontentsline{toc}{section}{Notes on the digital copy}
+\setlength\fboxsep{3mm}
+\setlength\fboxrule{1pt}
+\begin{center}
+\framebox{\huge{\textsc{Notes on the Digital Copy}}}
+\end{center}
+\vspace{5mm}
+This document makes extensive use of the hyperlinking features of \LaTeX. References to figures, tables, sections, chapters and the literature can be navigated from within the PDF by clicking on the reference. Internet addresses will be displayed in a browser. 
+
+The bibliography at the end of this thesis has been hyperlinked to the NASA Astrophysics Data Service (\myurl{http://www.adsabs.harvard.edu/}). Further information on each of the cited works is available through the link to ADS.
+
+%Several of the large catalogues used in this work have been tagged with their Virtual Observatory unique identifier (e.g. \mbox{ivo://astronet.ru/cas/twomass-psc}). As~various data centres can have different versions and implementations of the same catalogue, this ensures any analysis is repeatable by denoting the exact catalogue \emph{and} service that was used to obtain the data. Clicking on their identifiers will resolve the service descriptions in the  directory hosted by the US Virtual Observatory (\myurl{http://ww.us-vo.org}).
+
+\textbf{This page can be easily removed from the print copy.}
+
+%%% END
+%\end{comment}
+
+%
+%%% DEDICATION:
+%
+% dedication page
+%\include{dedication}
+\cleardoublepage %THIS LINE SWAPS LEFT AND RIGHT PAGES
+\normalsize
+%
+%%% FRONT CONTENT:
+%
+% page numbering as roman numerals
+% don't indent paragraphs 
+% increase the amount of space between paragraphs
+\pagestyle{plain}
+\pagenumbering{roman}
+%
+% disclaimer
+%
+% I don't like things showing up in the contents BEFORE the contents
+% page itself, but you may wish to uncomment these lines.
+%
+%\phantomsection\addcontentsline{toc}{section}{Disclaimer}
+\include{disclaimer}
+
+\include{supplementaryresearch}
+
+%
+% acknowledgements
+% \phantomsection\addcontentsline{toc}{section}{Acknowledgements}
+\cleardoublepage
+\include{acknowledgements}
+%
+% abstract
+%\phantomsection\addcontentsline{toc}{section}{Abstract}
+\cleardoublepage
+\include{abstract}
+%
+% table of contents, figures and tables
+\setcounter{tocdepth}{1} % limit TOC to sections, i.e. 1.2, not the default 1.2.1
+%\phantomsection\addcontentsline{toc}{section}{Contents}
+\tableofcontents\cleardoublepage
+\phantomsection\addcontentsline{toc}{section}{List of Figures}
+\listoffigures\cleardoublepage
+\phantomsection\addcontentsline{toc}{section}{List of Tables}
+\listoftables\cleardoublepage
+
+%
+%%% MAIN CONTENT:
+%
+% page numbering as numbers for content of thesis
+\pagenumbering{arabic}
+\pagestyle{fancy}
+\fancyhead[LO]{\usefont{OT1}{qbk}{m}{n}\selectfont \rightmark}
+\fancyhead[RE]{\usefont{OT1}{qbk}{m}{n}\selectfont \leftmark}
+\fancyhead[LE]{\usefont{OT1}{qbk}{m}{n}\selectfont \thepage}
+\fancyhead[RO]{\usefont{OT1}{qbk}{m}{n}\selectfont \thepage}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\subimport{chapter1/}{chapter1.tex}
+\subimport{chapter2/}{chapter2.tex}
+\subimport{chapter3/}{chapter3.tex}
+\subimport{chapter4/}{chapter4.tex}
+\subimport{conclusions/}{conclusions.tex}
+
+%
+%%% BACK CONTENT:
+%
+\cleardoublepage
+% for back matter, plain page style with no head/foot rules
+%\pagestyle{plain}
+
+% appendices
+\cleardoublepage
+ \phantomsection
+ %
+ % I like my appendices to just follow on  from the main text,
+ % without a fresh title page
+ %
+%\appendix
+%\appendixpage
+%\addappheadtotoc
+\begin{appendices}
+\subimport{appendices/}{appendices.tex}
+\end{appendices}
+
+\phantomsection\addcontentsline{toc}{chapter}{List of acronyms}
+\glsaddall
+\setglossarystyle{altlist}
+\printglossary[type=\acronymtype,title=List of acronyms]
+
+%
+% bibliography
+\phantomsection\addcontentsline{toc}{chapter}{Bibliography}
+% change bib style to 'apj' to remove the ADS links in the printed version
+\bibliographystyle{astroads}
+%\bibliographystyle{apj}
+\bibliography{references}
+\end{document}

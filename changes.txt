@@ -1,0 +1,14 @@
+Changes from the initial submitted copy to the final library copy:
+
+Reviewer 1:
+- Fixed equation 1.6 (was actually the inverse)
+- Page 8, beginning of Sect 1.4.3. Revised wording.
+
+Reviewer 3:
+- Changed Figure 1.2 to Timmes other version showing s-process path (to match caption)
+- Fixed Figure 1.4 caption (top -> left, bottom -> right)
+- Added vertical axis label to Figure 7
+
+Other changes
+- Modified acknowledgments
+- Fixed arrow type in Figure 1.5 for Rb86 to Sr86

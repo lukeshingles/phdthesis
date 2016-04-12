@@ -1,0 +1,31 @@
+\chapter{Tables of stellar yields}\label{app:yields}
+The following tables of stellar yields are included with \citet{Shingles:2015cd} as online data tables. The stellar models are described in Chapter \ref{chap:shinglesetal2015}.
+
+%Table \ref{tab:yieldsel-m3z0006y24a0pmz0}.
+{
+\renewcommand\arraystretch{0.95}
+\input{yieldtables.tex}
+}
+
+\chapter{Source code of Evel ChemEvol}
+
+The Evel ChemEvol chemical evolution code is written in Fortran 2008.
+\lstset{
+  language=[08]Fortran,
+  columns=fullflexible,basicstyle=\footnotesize\ttfamily,
+  numbers=left,
+  numberstyle=\footnotesize,
+  stepnumber=1,
+  numbersep=5pt,
+  breaklines=true,
+  inputencoding=utf8,
+  keywordstyle=\color{red},
+  commentstyle=\color{green},
+%  morecomment=[l]{!\ }% Comment only with space after !
+}
+\section{Main program}
+\lstinputlisting{source-latest/main.f90}
+\section{Chemical evolution module}
+\lstinputlisting{source-latest/cemodel.f90}
+
+

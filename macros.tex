@@ -1,0 +1,216 @@
+% ---------------------------------------------------------------------
+% command re-definitions and additions
+% ---------------------------------------------------------------------
+
+% "Previously published as" chapter starter
+\newcommand{\previouslypublished}[1]{\vspace{-0.5cm}\emph{\small #1}}
+
+% i.e. -- e.g. -- etc. -- et. al.
+\newcommand{\eg}{{\em e.g.,}}
+\newcommand{\ie}{{\em i.e.,}}
+\newcommand{\etc}{{\em etc.}}
+\newcommand{\etal}{{\em et al.}}
+\newcommand{\cf}{{\em cf.}}
+
+% RESOLVE IVOA IDENTIFIERS TO THE US-VO DIRECTORY
+% Use this to tag the particular dataset, VO service or tool you used in your research. Users can click on the link and resolve the full description in the US Virtual Observatory directory.
+%
+% e.g. "I used the NOMAD catalogue, as hosted by the Russian ASTRONET facility (\ivoa{ivo://astronet.ru/cas/nomad})"
+%
+\newcommand{\ivoa}[1]{\href{http://nvo.stsci.edu/vor10/getRecord.aspx?id=#1}{#1}}
+
+% RESOLVE OBJECTS ON SIMBAD
+% Adapted from http://tex.stackexchange.com/questions/4154/how-to-use-newcommand-for-href
+% Same functionality as AASTEX macro: http://aastex.aas.org/objects/objectlinking.aas.htm
+% #2 is mandatory object name (as written in the text) e.g. \object{IC 2391}
+% #1 is optional SIMBAD name (if different from #2) e.g. \object[ETA CHA]{$\eta$~Cha}
+\makeatletter
+\newcommand{\object}[2][\simbadname]{%
+\hypersetup{urlbordercolor=\objectcolor}%
+\def\simbadname{#2}%
+\StrSubstitute{#1}{ }{+}[\parsedname]%
+\href{http://simbad.u-strasbg.fr/simbad/sim-id?Ident=\parsedname}{#2}%
+\hypersetup{urlbordercolor=\urlcolor}}%
+\makeatother
+
+%% astronomical symbols
+\newcommand{\HI}{\hbox{\rmfamily H\,{\textsc i}}}
+\newcommand{\HIfat}{\hbox{\rmfamily\bfseries H\,{\textsc i}}}
+\newcommand{\HIsub}{\hbox{{\scriptsize H}\,{\tiny I}}}
+\newcommand{\HII}{\hbox{\rmfamily H\,{\scshape ii}}\xspace}
+\newcommand{\HIIsub}{\hbox{\scriptsize \rmfamily H\,{\scshape ii}}}
+\newcommand{\Ha}{\hbox{\rmfamily H\,$\alpha$}}
+\newcommand{\msun}{\hbox{$M_{\odot}$}\xspace}
+\newcommand{\mhi}{\hbox{$M_{\HIsub}$}}
+\newcommand{\lsun}{\hbox{$L_{\odot}$}}
+\newcommand{\mlsun}{(M/L)_{\odot}}
+\newcommand{\vexp}{\hbox{$V_{exp}$}}
+\newcommand{\vhel}{\hbox{$V_{hel}$}}
+\newcommand{\vdisp}{\hbox{$\sigma_{disp}$}}
+\newcommand{\Nhi}{\hbox{$N_{\HIsub}$}}
+\newcommand{\nhi}{\hbox{$n_{\HIsub}$}}
+\newcommand{\Mhi}{\hbox{$M_{\HIsub}$}}
+\newcommand{\ra}{$\alpha$}
+\newcommand{\dec}{$\delta$}
+%\newcommand{\degree}{\textdegree}
+\newcommand{\arcmin}{\hbox{$^\prime$}}
+\newcommand{\arcsec}{\hbox{$^{\prime\prime}$}}
+\newcommand{\kms}{\hbox{km s$^{-1}$}}
+\newcommand{\mjbeam}{\hbox{mJy beam$^{-1}$}}
+\newcommand{\jbeam}{\hbox{Jy beam$^{-1}$}}
+\newcommand{\mjbeamkms}{\hbox{mJy/beam km s$^{-1}$}}
+\newcommand{\jkms}{\hbox{Jy km s$^{-1}$}}
+\newcommand{\coldensity}{\hbox{cm$^{-2}$}}
+\newcommand{\voldensity}{\hbox{cm$^{-3}$}}
+% add others that you need, or can't be bothered writing repeatedly
+\newcommand{\pms}{pre--main sequence}
+\newcommand{\Pms}{Pre--main sequence}
+\newcommand{\msunyr}{\hbox{$M_{\odot}$~yr$^{-1}$}}
+\newcommand{\masyr}{mas~yr$^{-1}$}
+\newcommand{\micron}{\hbox{$\mu$m}}
+\newcommand{\wifes}{\hbox{\emph{WiFeS}}}
+\newcommand{\vsini}{\ensuremath{v\sin i}}
+
+\newcommand{\sprocess}{\textit{s}-process\xspace}
+\newcommand{\rprocess}{\textit{r}-process\xspace}
+
+\newcommand{\ud}{\mathrm{d}}
+\newcommand{\sun}{\ensuremath{\odot}}
+\newcommand{\Mdot}{\ensuremath{\dot{\mathrm{M}}}}
+\newcommand{\Msun}{\ensuremath{\mathrm{M}_{\sun}}\xspace}
+\newcommand{\Lsub}[1]{\ensuremath{\mathrm{L}_\mathrm{#1}}}
+\newcommand{\Lsun}{\ensuremath{{\mathrm L_{\sun}}}}
+\newcommand{\Rsun}{\ensuremath{{\mathrm R_{\sun}}}}
+\newcommand{\M}[1]{\ensuremath{\mathrm{M}_\mathrm{#1}}}
+\newcommand{\Mtwo}[2]{\ensuremath{\mathrm{M}_\mathrm{#1}^\mathrm{#2}}}
+\newcommand{\Tsub}[1]{\ensuremath{\mathrm{T}_\mathrm{#1}}}
+\newcommand{\Ttwo}[2]{\ensuremath{\mathrm{T}_\mathrm{#1}^\mathrm{#2}}}
+\newcommand{\tausub}[1]{\ensuremath{\tau_\mathrm{#1}}}
+\newcommand{\Mc}{\M{C}}
+\newcommand{\Mcfirst}{\ensuremath{\Mc^\mathrm{TP1}}}
+\newcommand{\Mtdu}{\ensuremath{\Mtwo{TDU}{tot}}}
+\newcommand{\iso}[2]{\mbox{${}^{#1}{\text{#2}}$}}
+%\newcommand{\iso}[2]{\textsuperscript{#1}{\text{#2}}}
+\newcommand{\Cratio}{\iso{12}C/\iso{13}C}
+
+
+
+% define any objects you will be referring to often
+\newcommand{\echa}{\object[ETA CHA CLUSTER]{$\eta$~Cha}} 
+
+
+% footnote symbols
+% use \symbolfootnote[1]{footnote} to get an *
+%     * 1 - *
+%     * 2 - dagger
+%     * 3 - double dagger
+%     * 4 - ... 9 (see page 175 of the latex manual) 
+\long\def\symbolfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+% New definition of square root:
+% it renames \sqrt as \oldsqrt
+% it defines the new \sqrt in terms of the old one
+% See:
+%  http://en.wikibooks.org/wiki/LaTeX/Tips_and_Tricks#New_Square_Root
+\let\oldsqrt\sqrt
+\def\sqrt{\mathpalette\DHLhksqrt}
+\def\DHLhksqrt#1#2{%
+\setbox0=\hbox{$#1\oldsqrt{#2\,}$}\dimen0=\ht0
+\advance\dimen0-0.2\ht0
+\setbox2=\hbox{\vrule height\ht0 depth -\dimen0}%
+{\box0\lower0.4pt\box2}}
+
+% define a new url command so a nice font can be used
+\newcommand{\myurl}[1]{\href{#1}{#1}}
+
+% ---------------------------------------------------------------------
+% pdflatex setup
+% ---------------------------------------------------------------------
+% make pdflatex use the same spacing (paragraph, line and page breaks)
+% as standard LaTeX 
+\pdfadjustspacing=1
+
+% ---------------------------------------------------------------------
+%  misc. options
+% ---------------------------------------------------------------------
+
+% ---------------------------------------------------------------------
+% more liberal 'float' (tables, figures) placement
+% ---------------------------------------------------------------------
+% Alter some LaTeX defaults for better treatment of figures:
+% See p.105 of "TeX Unbound" for suggested values.
+% See pp. 199-200 of Lamport's "LaTeX" book for details.
+% General parameters, for ALL pages:
+\renewcommand{\topfraction}{0.9}	% max fraction of floats at top
+\renewcommand{\bottomfraction}{0.8}	% max fraction of floats at bottom
+% Parameters for TEXT pages (not float pages):
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}     % 2 may work better
+\setcounter{dbltopnumber}{2}    % for 2-column pages
+\renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+\renewcommand{\textfraction}{0.07}	% allow minimal text w. figs
+% Parameters for FLOAT pages (not text pages):
+\renewcommand{\floatpagefraction}{0.7}	% require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+\renewcommand{\dblfloatpagefraction}{0.7}	% require fuller float pages
+% remember to use [htp] or [htpb] for placement
+
+% ---------------------------------------------------------------------
+% Journal name abbreviations
+% ---------------------------------------------------------------------
+\newcommand{\jnlref}[1]{\textrm{#1}}
+\newcommand{\actaa}{\jnlref{Acta Astronomica}}
+\newcommand{\aj}{\jnlref{AJ}}
+\newcommand{\araa}{\jnlref{ARA\&A}}
+\newcommand{\apj}{\jnlref{ApJ}}
+\newcommand{\apjl}{\jnlref{ApJ}}
+\newcommand{\apjs}{\jnlref{ApJS}}
+\newcommand{\ao}{\jnlref{Appl.~Opt.}}
+\newcommand{\apss}{\jnlref{Ap\&SS}}
+\newcommand{\aap}{\jnlref{A\&A}}
+\newcommand{\aapr}{\jnlref{A\&A~Rev.}}
+\newcommand{\aaps}{\jnlref{A\&AS}}
+\newcommand{\azh}{\jnlref{AZh}}
+\newcommand{\baas}{\jnlref{BAAS}}
+\newcommand{\jrasc}{\jnlref{JRASC}}
+\newcommand{\memras}{\jnlref{MmRAS}}
+\newcommand{\mnras}{\jnlref{MNRAS}}
+\newcommand{\pra}{\jnlref{Phys.~Rev.~A}}
+\newcommand{\prb}{\jnlref{Phys.~Rev.~B}}
+\newcommand{\prc}{\jnlref{Phys.~Rev.~C}}
+\newcommand{\prd}{\jnlref{Phys.~Rev.~D}}
+\newcommand{\pre}{\jnlref{Phys.~Rev.~E}}
+\newcommand{\prl}{\jnlref{Phys.~Rev.~Lett.}}
+\newcommand{\pasp}{\jnlref{PASP}}
+\newcommand{\pasj}{\jnlref{PASJ}}
+\newcommand{\qjras}{\jnlref{QJRAS}}
+\newcommand{\skytel}{\jnlref{S\&T}}
+\newcommand{\solphys}{\jnlref{Sol.~Phys.}}
+\newcommand{\sovast}{\jnlref{Soviet~Ast.}}
+\newcommand{\ssr}{\jnlref{Space~Sci.~Rev.}}
+\newcommand{\zap}{\jnlref{ZAp}}
+\newcommand{\nat}{\jnlref{Nature}}
+\newcommand{\iaucirc}{\jnlref{IAU~Circ.}}
+\newcommand{\aplett}{\jnlref{Astrophys.~Lett.}}
+\newcommand{\apspr}{\jnlref{Astrophys.~Space~Phys.~Res.}}
+\newcommand{\bain}{\jnlref{Bull.~Astron.~Inst.~Netherlands}}
+\newcommand{\fcp}{\jnlref{Fund.~Cosmic~Phys.}}
+\newcommand{\gca}{\jnlref{Geochim.~Cosmochim.~Acta}}
+\newcommand{\grl}{\jnlref{Geophys.~Res.~Lett.}}
+\newcommand{\jcp}{\jnlref{J.~Chem.~Phys.}}
+\newcommand{\jgr}{\jnlref{J.~Geophys.~Res.}}
+\newcommand{\jqsrt}{\jnlref{J.~Quant.~Spec.~Radiat.~Transf.}}
+\newcommand{\memsai}{\jnlref{Mem.~Soc.~Astron.~Italiana}}
+\newcommand{\nphysa}{\jnlref{Nucl.~Phys.~A}}
+\newcommand{\physrep}{\jnlref{Phys.~Rep.}}
+\newcommand{\physscr}{\jnlref{Phys.~Scr}}
+\newcommand{\planss}{\jnlref{Planet.~Space~Sci.}}
+\newcommand{\procspie}{\jnlref{Proc.~SPIE}}
+\newcommand{\ieeesigprocm}{\jnlref{IEEE~Signal~Processing~Magazine}}
+\newcommand{\icarus}{\jnlref{Icarus}}
+\let\astap=\aap
+\let\apjlett=\apjl
+\let\apjsupp=\apjs
+\let\applopt=\ao
+

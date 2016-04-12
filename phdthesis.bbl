@@ -1,0 +1,2059 @@
+\begin{thebibliography}{347}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{}\fi
+\expandafter\ifx\csname urllinklabel\endcsname\relax
+  \def\urllinklabel{(Link)}\fi
+\expandafter\ifx\csname adsurllinklabel\endcsname\relax
+  \def\adsurllinklabel{(ADS~entry)}\fi
+
+\bibitem[{Abia {et~al.}(2002)Abia, Dominguez, Gallino, Busso, Masera,
+  Straniero, de~Laverny, Plez, \& Isern}]{Abia:2002kh}
+Abia, C., {et~al.} 2002, ApJ, 579, 817
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2002ApJ...579..817A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Alpher {et~al.}(1948)Alpher, Bethe, \& Gamow}]{Alpher:1948jc}
+Alpher, R.~A., Bethe, H., \& Gamow, G. 1948, Phys. Rev., 73, 803
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1948PhRv...73..803A&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Alpher {et~al.}(1953)Alpher, Follin, \& Herman}]{Alpher:1953ew}
+Alpher, R.~A., Follin, J.~W., \& Herman, R.~C. 1953, Phys. Rev., 92, 1347
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1953PhRv...92.1347A&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Alves-Brito {et~al.}(2012)Alves-Brito, Yong, Mel{\'e}ndez,
+  V{\'a}squez, \& Karakas}]{AlvesBrito:2012hy}
+Alves-Brito, A., Yong, D., Mel{\'e}ndez, J., V{\'a}squez, S., \& Karakas, A.~I.
+  2012, A{\&}A, 540, A3
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...540A...3A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Angulo {et~al.}(1999)Angulo, Arnould, Rayet, Descouvemont, Baye,
+  Leclercq-Willain, Coc, Barhoumi, Aguer, Rolfs, Kunz, Hammer, Mayer,
+  Paradellis, Kossionides, \& {others}}]{Angulo:1999kp}
+Angulo, C., {et~al.} 1999, Nuc. Phys. A, 656, 3
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999NuPhA.656....3A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Arlandini {et~al.}(1999)Arlandini, Kappeler, Wisshak, Gallino,
+  Lugaro, Busso, \& Straniero}]{Arlandini:1999eh}
+Arlandini, C., Kappeler, F., Wisshak, K., Gallino, R., Lugaro, M.~A., Busso,
+  M., \& Straniero, O. 1999, ApJ, 525, 886
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999ApJ...525..886A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Arnould \& Goriely(2003)}]{Arnould:2003gi}
+Arnould, M., \& Goriely, S. 2003, Physics Reports, 384, 1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003PhR...384....1A&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Arnould {et~al.}(1999)Arnould, Goriely, \& Jorissen}]{Arnould:1999ue}
+Arnould, M., Goriely, S., \& Jorissen, A. 1999, A{\&}A, 347, 572
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...347..572A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Asplund {et~al.}(2009)Asplund, Grevesse, Sauval, \&
+  Scott}]{Asplund:2009eu}
+Asplund, M., Grevesse, N., Sauval, A.~J., \& Scott, P. 2009, ARA{\&}A, 47, 481
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009ARA%26A..47..481A&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Audi {et~al.}(2003)Audi, Bersillon, Blachot, \&
+  Wapstra}]{Audi:2003id}
+Audi, G., Bersillon, O., Blachot, J., \& Wapstra, A.~H. 2003, Nuc. Phys. A,
+  729, 3
+{}
+ \href{http://linkinghub.elsevier.com/retrieve/pii/S0375947403018074}{\urllinklabel}
+
+\bibitem[{Aver {et~al.}(2012)Aver, Olive, \& Skillman}]{Aver:2012dv}
+Aver, E., Olive, K.~A., \& Skillman, E.~D. 2012, Journal of Cosmology and
+  Astroparticle Physics, 04, 004
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012JCAP...04..004A&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Bao \& Kappeler(1987)}]{Bao:1987hy}
+Bao, Z.~Y., \& Kappeler, F. 1987, A{\&}A, 36, 411
+{}
+ \href{http://linkinghub.elsevier.com/retrieve/pii/0092640X87900118}{\urllinklabel}
+
+\bibitem[{Bastian {et~al.}(2013)Bastian, Lamers, de~Mink, Longmore, Goodwin, \&
+  Gieles}]{Bastian:2013fd}
+Bastian, N., Lamers, H. J. G. L.~M., de~Mink, S.~E., Longmore, S.~N., Goodwin,
+  S.~P., \& Gieles, M. 2013, MNRAS, 436, 2398
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.436.2398B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Becker \& Iben(1979)}]{Becker:1979jk}
+Becker, S.~A., \& Iben, I.~J. 1979, ApJ, 232, 831
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/157345}{\urllinklabel}
+
+\bibitem[{Bedin {et~al.}(2004)Bedin, Piotto, Anderson, Cassisi, King, Momany,
+  \& Carraro}]{Bedin:2004hn}
+Bedin, L.~R., Piotto, G., Anderson, J., Cassisi, S., King, I.~R., Momany, Y.,
+  \& Carraro, G. 2004, ApJ, 605, L125
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ApJ...605L.125B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Beer {et~al.}(1992)Beer, Walter, \& Kaeppeler}]{Beer:1992jv}
+Beer, H., Walter, G., \& Kaeppeler, F. 1992, ApJ, 389, 784
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1992ApJ...389..784B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bekki \& Freeman(2003)}]{Bekki:2003dv}
+Bekki, K., \& Freeman, K.~C. 2003, A{\&}A, 346, L11
+{}
+ \href{http://doi.wiley.com/10.1046/j.1365-2966.2003.07275.x}{\urllinklabel}
+
+\bibitem[{Bennett {et~al.}(2012)Bennett, Diehl, Fryer, Herwig, Hungerford,
+  Nomoto, Rockefeller, Timmes, \& Wiescher}]{Bennett:2012gj}
+Bennett, M.~E., {et~al.} 2012, MNRAS, 420, 3047
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012MNRAS.420.3047B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bernard-Salas {et~al.}(2008)Bernard-Salas, Pottasch, Gutenkunst,
+  Morris, \& Houck}]{BernardSalas:2008kz}
+Bernard-Salas, J., Pottasch, S.~R., Gutenkunst, S., Morris, P.~W., \& Houck,
+  J.~R. 2008, ApJ, 672, 274
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJ...672..274B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bertelli {et~al.}(2008)Bertelli, Girardi, Marigo, \&
+  Nasi}]{Bertelli:2008ge}
+Bertelli, G., Girardi, L., Marigo, P., \& Nasi, E. 2008, A{\&}A, 484, 815
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...484..815B&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Best {et~al.}(2011)Best, Gorres, Couder, deBoer, Falahat, Kontos,
+  LeBlanc, Li, O{\textquoteright}Brien, Sonnabend, Talwar, Uberseder, \&
+  Wiescher}]{Best:2011gb}
+Best, A., {et~al.} 2011, Phys. Rev. C, 83, 52802
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011PhRvC..83e2802B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Best {et~al.}(2013)Best, Beard, Gorres, Couder, deBoer, Falahat,
+  G{\"u}ray, Kontos, Kratz, LeBlanc, Li, O{\textquoteright}Brien, {\"O}zkan,
+  Sonnabend, Talwar, Tan, Uberseder, \& Wiescher}]{Best:2013gb}
+---. 2013, Phys. Rev. C, 87, 45805
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013PhRvC..87d5805B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bethe(1939)}]{Bethe:1939ed}
+Bethe, H.~A. 1939, Phys. Rev., 55, 434
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1939PhRv...55..434B&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Biermann(1948)}]{Biermann:1948ul}
+Biermann, L. 1948, Z. Astrophys., 25, 135
+{}
+ \href{http://adsabs.harvard.edu/abs/1948ZA.....25..135B}{\urllinklabel}
+
+\bibitem[{Bisterzo {et~al.}(2010)Bisterzo, Gallino, Straniero, Cristallo, \&
+  Kappeler}]{Bisterzo:2010cd}
+Bisterzo, S., Gallino, R., Straniero, O., Cristallo, S., \& Kappeler, F. 2010,
+  MNRAS, 404, 1529
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.404.1529B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bisterzo {et~al.}(2012)Bisterzo, Gallino, Straniero, Cristallo, \&
+  Kappeler}]{Bisterzo:2012bf}
+---. 2012, MNRAS, 422, 849
+{}
+ \href{http://mnras.oxfordjournals.org/cgi/doi/10.1111/j.1365-2966.2012.20670.x}{\urllinklabel}
+
+\bibitem[{Bisterzo {et~al.}(2014)Bisterzo, Travaglio, Gallino, Wiescher, \&
+  Kappeler}]{Bisterzo:2014gk}
+Bisterzo, S., Travaglio, C., Gallino, R., Wiescher, M., \& Kappeler, F. 2014,
+  ApJ, 787, 10
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...787...10B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bloecker(1995)}]{Bloecker:1995ui}
+Bloecker, T. 1995, A{\&}A, 297, 727
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1995A%26A...297..727B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bloecker \& Schoenberner(1991)}]{Bloecker:1991tt}
+Bloecker, T., \& Schoenberner, D. 1991, A{\&}A, 244, L43
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1991A%26A...244L..43B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{B{\"o}hm-Vitense(1958)}]{BohmVitense:1958ix}
+B{\"o}hm-Vitense, E. 1958, Z. Astrophys., 46, 108
+{}
+ \href{http://adsabs.harvard.edu/abs/1958ZA.....46..108B}{\urllinklabel}
+
+\bibitem[{Bona{\v c}i{\'c}~Marinovi{\'c} {et~al.}(2007{\natexlab{a}})Bona{\v
+  c}i{\'c}~Marinovi{\'c}, Izzard, Lugaro, \& Pols}]{BonacicMarinovic:2007hw}
+Bona{\v c}i{\'c}~Marinovi{\'c}, A., Izzard, R.~G., Lugaro, M.~A., \& Pols,
+  O.~R. 2007{\natexlab{a}}, A{\&}A, 469, 1013
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...469.1013B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bona{\v c}i{\'c}~Marinovi{\'c} {et~al.}(2007{\natexlab{b}})Bona{\v
+  c}i{\'c}~Marinovi{\'c}, Lugaro, Reyniers, \& van
+  Winckel}]{BonacicMarinovic:2007jl}
+Bona{\v c}i{\'c}~Marinovi{\'c}, A., Lugaro, M.~A., Reyniers, M., \& van
+  Winckel, H. 2007{\natexlab{b}}, A{\&}A, 472, L1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L...1B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Bono {et~al.}(2000)Bono, Caputo, Cassisi, Marconi, Piersanti, \&
+  Tornambe}]{Bono:2000gk}
+Bono, G., Caputo, F., Cassisi, S., Marconi, M., Piersanti, L., \& Tornambe, A.
+  2000, ApJ, 543, 955
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000ApJ...543..955B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Boothroyd \& Sackmann(1988{\natexlab{a}})}]{Boothroyd:1988du}
+Boothroyd, A.~I., \& Sackmann, I.-J. 1988{\natexlab{a}}, ApJ, 328, 653
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1988ApJ...328..653B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Boothroyd \& Sackmann(1988{\natexlab{b}})}]{Boothroyd:1988jl}
+---. 1988{\natexlab{b}}, ApJ, 328, 671
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1988ApJ...328..671B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Boothroyd \& Sackmann(1992)}]{Boothroyd:1992gi}
+---. 1992, ApJ, 393, L21
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1992ApJ...393L..21B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Boothroyd {et~al.}(1993)Boothroyd, Sackmann, \&
+  Ahern}]{Boothroyd:1993dj}
+Boothroyd, A.~I., Sackmann, I.-J., \& Ahern, S.~C. 1993, ApJ, 416, 762
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993ApJ...416..762B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Brown \& Wallerstein(1992)}]{Brown:1992dw}
+Brown, J.~A., \& Wallerstein, G. 1992, AJ, 104, 1818
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1992AJ....104.1818B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Buell(2013)}]{Buell:2013be}
+Buell, J.~F. 2013, MNRAS, 428, 2577
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.428.2577B&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Burbidge {et~al.}(1957)Burbidge, Burbidge, Fowler, \&
+  Hoyle}]{Burbidge:1957hf}
+Burbidge, E.~M., Burbidge, G.~R., Fowler, W.~A., \& Hoyle, F. 1957, Reviews of
+  Modern Physics, 29, 547
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1957RvMP...29..547B&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Busso {et~al.}(1999)Busso, Gallino, \& Wasserburg}]{Busso:1999ig}
+Busso, M., Gallino, R., \& Wasserburg, G.~J. 1999, ARA{\&}A, 37, 239
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999ARA%26A..37..239B&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cameron(1955)}]{Cameron:1955eb}
+Cameron, A. G.~W. 1955, ApJ, 121, 144
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1955ApJ...121..144C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cameron(1957{\natexlab{a}})}]{Cameron:1957jd}
+---. 1957{\natexlab{a}}, PASP, 69, 201
+{}
+ \href{http://adsabs.harvard.edu/abs/1957PASP...69..201C}{\urllinklabel}
+
+\bibitem[{Cameron(1957{\natexlab{b}})}]{Cameron:1957jm}
+---. 1957{\natexlab{b}}, Astronomical Journal, 62, 9
+{}
+ \href{http://adsabs.harvard.edu/abs/1957AJ.....62....9C}{\urllinklabel}
+
+\bibitem[{Cameron(1957{\natexlab{c}})}]{Cameron:1957eo}
+---. 1957{\natexlab{c}}, Astronomical Journal, 62, 138
+{}
+ \href{http://adsabs.harvard.edu/abs/1957AJ.....62..138C}{\urllinklabel}
+
+\bibitem[{Cameron(1960)}]{Cameron:1960hj}
+---. 1960, AJ, 65, 485
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1960AJ.....65Q.485C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Campbell {et~al.}(2013)Campbell, D'Orazi, Yong, Constantino,
+  Lattanzio, Stancliffe, Angelou, Wylie-de Boer, \& Grundahl}]{Campbell:2013bd}
+Campbell, S.~W., {et~al.} 2013, Nature, 498, 198
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013Natur.498..198C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cannon(1993)}]{Cannon:1993te}
+Cannon, R.~C. 1993, MNRAS, 263, 817
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993MNRAS.263..817C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cannon {et~al.}(1998)Cannon, Croke, Bell, Hesser, \&
+  Stathakis}]{Cannon:1998ki}
+Cannon, R.~D., Croke, B. F.~W., Bell, R.~A., Hesser, J.~E., \& Stathakis, R.~A.
+  1998, MNRAS, 298, 601
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1998MNRAS.298..601C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Canuto {et~al.}(1996)Canuto, Goldman, \& Mazzitelli}]{Canuto:1996cq}
+Canuto, V.~M., Goldman, I., \& Mazzitelli, I. 1996, ApJ, 473, 550
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996ApJ...473..550C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Canuto \& Mazzitelli(1991)}]{Canuto:1991bj}
+Canuto, V.~M., \& Mazzitelli, I. 1991, ApJ, 370, 295
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1991ApJ...370..295C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Carretta {et~al.}(2009{\natexlab{a}})Carretta, Bragaglia, Gratton,
+  D{\textquoteright}Orazi, \& Lucatello}]{Carretta:2009di}
+Carretta, E., Bragaglia, A., Gratton, R., D{\textquoteright}Orazi, V., \&
+  Lucatello, S. 2009{\natexlab{a}}, A{\&}A, 508, 695
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...508..695C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Carretta {et~al.}(2011)Carretta, Lucatello, Gratton, Bragaglia, \&
+  D{\textquoteright}Orazi}]{Carretta:2011eo}
+Carretta, E., Lucatello, S., Gratton, R.~G., Bragaglia, A., \&
+  D{\textquoteright}Orazi, V. 2011, A{\&}A, 533, 69
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...533A..69C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Carretta {et~al.}(2009{\natexlab{b}})Carretta, Bragaglia, Gratton,
+  Lucatello, Catanzaro, Leone, Bellazzini, Claudi, D{\textquoteright}Orazi,
+  Momany, Ortolani, Pancino, Piotto, Recio-Blanco, \& Sabbi}]{Carretta:2009kr}
+Carretta, E., {et~al.} 2009{\natexlab{b}}, A{\&}A, 505, 117
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...505..117C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cassisi \& Castellani(1993)}]{Cassisi:1993is}
+Cassisi, S., \& Castellani, V. 1993, A{\&}AS, 88, 509
+{}
+ \href{http://adsabs.harvard.edu/abs/1993ApJS...88..509C}{\urllinklabel}
+
+\bibitem[{Caughlan \& Fowler(1988)}]{Caughlan:1988dn}
+Caughlan, G.~R., \& Fowler, W.~A. 1988, Atomic Data and Nuclear Data Tables,
+  40, 283
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1988ADNDT..40..283C&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Chaboyer {et~al.}(1996)Chaboyer, Demarque, Kernan, \&
+  Krauss}]{Chaboyer:1996hh}
+Chaboyer, B., Demarque, P., Kernan, P.~J., \& Krauss, L.~M. 1996, Science, 271,
+  957
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996Sci...271..957C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Charbonnel {et~al.}(2013)Charbonnel, Chantereau, Decressin, Meynet,
+  \& Schaerer}]{Charbonnel:2013jt}
+Charbonnel, C., Chantereau, W., Decressin, T., Meynet, G., \& Schaerer, D.
+  2013, A{\&}A, 557, L17
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...557L..17C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Chiappini {et~al.}(2001)Chiappini, Matteucci, \&
+  Romano}]{Chiappini:2001ds}
+Chiappini, C., Matteucci, F., \& Romano, D. 2001, ApJ, 554, 1044
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001ApJ...554.1044C&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Chieffi \& Limongi(2002)}]{Chieffi:2002gl}
+Chieffi, A., \& Limongi, M. 2002, ApJ, 577, 281
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2002ApJ...577..281C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Chieffi \& Straniero(1989)}]{Chieffi:1989dp}
+Chieffi, A., \& Straniero, O. 1989, A{\&}AS, 71, 47
+{}
+ \href{http://adsabs.harvard.edu/abs/1989ApJS...71...47C}{\urllinklabel}
+
+\bibitem[{Chiosi \& Maeder(1986)}]{Chiosi:1986df}
+Chiosi, C., \& Maeder, A. 1986, ARA{\&}A, 24, 329
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1986ARA%26A..24..329C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Christy-Sackmann \& Paczy{\'{n}}ski(1975)}]{ChristySackmann:1975ta}
+Christy-Sackmann, I.~J., \& Paczy{\'{n}}ski, B. 1975, Mem. Soc. R. Sci.
+  Li{\`e}ge, 8, 335
+{}
+ \href{http://adsabs.harvard.edu/abs/1975MSRSL...8..335C}{\urllinklabel}
+
+\bibitem[{Clayton(1988)}]{Clayton:1988tf}
+Clayton, D.~D. 1988, MNRAS, 234, 1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1988MNRAS.234....1C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Clayton \& Rassbach(1967)}]{Clayton:1967co}
+Clayton, D.~D., \& Rassbach, M.~E. 1967, ApJ, 148, 69
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/149128}{\urllinklabel}
+
+\bibitem[{Cohen(1978)}]{Cohen:1978gq}
+Cohen, J.~G. 1978, ApJ, 223, 487
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/156284}{\urllinklabel}
+
+\bibitem[{Cohen \& Kirby(2012)}]{Cohen:2012cd}
+Cohen, J.~G., \& Kirby, E.~N. 2012, ApJ, 760, 86
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJ...760...86C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Constantino {et~al.}(2014)Constantino, Campbell, Gil-Pons, \&
+  Lattanzio}]{Constantino:2014gv}
+Constantino, T., Campbell, S., Gil-Pons, P., \& Lattanzio, J.~C. 2014, ApJ,
+  784, 56
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...784...56C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cottrell \& Da~Costa(1981)}]{Cottrell:1981ha}
+Cottrell, P.~L., \& Da~Costa, G.~S. 1981, ApJ, 245, L79
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1981ApJ...245L..79C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cristallo {et~al.}(2004)Cristallo, Gallino, \&
+  Straniero}]{Cristallo:2004us}
+Cristallo, S., Gallino, R., \& Straniero, O. 2004, Mem. Soc. Astron. Ital., 75,
+  174
+{}
+ \href{http://adsabs.harvard.edu/abs/2004MmSAI..75..174C}{\urllinklabel}
+
+\bibitem[{Cristallo {et~al.}(2014)Cristallo, Imbriani, Piersanti, Abia,
+  Gialanella, \& Straniero}]{Cristallo:2014ev}
+Cristallo, S., Imbriani, G., Piersanti, L., Abia, C., Gialanella, L., \&
+  Straniero, O. 2014, A{\&}A, 570, A46
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014A%26A...570A..46C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cristallo {et~al.}(2009)Cristallo, Straniero, Gallino, Piersanti,
+  Dominguez, \& Lederer}]{Cristallo:2009kn}
+Cristallo, S., Straniero, O., Gallino, R., Piersanti, L., Dominguez, I., \&
+  Lederer, M.~T. 2009, ApJ, 696, 797
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009ApJ...696..797C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cristallo {et~al.}(2011)Cristallo, Piersanti, Straniero, Gallino,
+  Dominguez, Abia, Di~Rico, Quintini, \& Bisterzo}]{Cristallo:2011fz}
+Cristallo, S., {et~al.} 2011, ApJS, 197, 17
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJS..197...17C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Cyburt {et~al.}(2010)Cyburt, Amthor, Ferguson, Meisel, Smith, Warren,
+  Heger, Hoffman, Rauscher, Sakharuk, Schatz, Thielemann, \&
+  Wiescher}]{Cyburt:2010ey}
+Cyburt, R.~H., {et~al.} 2010, ApJS, 189, 240
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJS..189..240C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Da~Costa {et~al.}(2009)Da~Costa, Held, Saviane, \&
+  Gullieuszik}]{DaCosta:2009jl}
+Da~Costa, G.~S., Held, E.~V., Saviane, I., \& Gullieuszik, M. 2009, ApJ, 705,
+  1481
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009ApJ...705.1481D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Da~Costa \& Marino(2011)}]{DaCosta:2011jh}
+Da~Costa, G.~S., \& Marino, A.~F. 2011, Publ. Astron. Soc. Aust., 28, 28
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011PASA...28...28D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Da~Costa {et~al.}(2013)Da~Costa, Norris, \& Yong}]{DaCosta:2013cf}
+Da~Costa, G.~S., Norris, J.~E., \& Yong, D. 2013, ApJ, 769, 8
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...769....8D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{de~Laverny \& Recio-Blanco(2013)}]{deLaverny:2013it}
+de~Laverny, P., \& Recio-Blanco, A. 2013, A{\&}A, 560, 74
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...560A..74D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{de~Mink {et~al.}(2009)de~Mink, Pols, Langer, \&
+  Izzard}]{deMink:2009kv}
+de~Mink, S.~E., Pols, O.~R., Langer, N., \& Izzard, R.~G. 2009, A{\&}A, 507, L1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...507L...1D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{De~Silva {et~al.}(2009)De~Silva, Gibson, Lattanzio, \&
+  Asplund}]{DeSilva:2009ki}
+De~Silva, G.~M., Gibson, B.~K., Lattanzio, J.~C., \& Asplund, M. 2009, A{\&}A,
+  500, L25
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...500L..25D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{De~Smedt {et~al.}(2014)De~Smedt, van Winckel, Kamath, Karakas, Siess,
+  Goriely, \& Wood}]{DeSmedt:2014hd}
+De~Smedt, K., van Winckel, H., Kamath, D., Karakas, A.~I., Siess, L., Goriely,
+  S., \& Wood, P. 2014, A{\&}A, 563, L5
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014A%26A...563L...5D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{De~Smedt {et~al.}(2012)De~Smedt, van Winckel, Karakas, Siess,
+  Goriely, \& Wood}]{DeSmedt:2012dp}
+De~Smedt, K., van Winckel, H., Karakas, A.~I., Siess, L., Goriely, S., \& Wood,
+  P.~R. 2012, A{\&}A, 541, A67
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...541A..67D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Decressin {et~al.}(2007)Decressin, Charbonnel, Prantzos, \&
+  Ekstr{\"o}m}]{Decressin:2007bf}
+Decressin, T., Charbonnel, C., Prantzos, N., \& Ekstr{\"o}m, S. 2007, A{\&}A,
+  464, 1029
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...464.1029D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Denisenkov \& Denisenkova(1990)}]{Denisenkov:1990vz}
+Denisenkov, P.~A., \& Denisenkova, S.~N. 1990, SvAL, 16, 275
+{}
+ \href{http://adsabs.harvard.edu/abs/1990SvAL...16..275D}{\urllinklabel}
+
+\bibitem[{Denissenkov \& Hartwick(2014)}]{Denissenkov:2014bc}
+Denissenkov, P.~A., \& Hartwick, F. D.~A. 2014, MNRASL, 437, L21
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.437L..21D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Denissenkov \& Herwig(2003)}]{Denissenkov:2003bn}
+Denissenkov, P.~A., \& Herwig, F. 2003, ApJ, 590, L99
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ApJ...590L..99D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Denissenkov {et~al.}(2013)Denissenkov, Herwig, Truran, \&
+  Paxton}]{Denissenkov:2013dd}
+Denissenkov, P.~A., Herwig, F., Truran, J.~W., \& Paxton, B. 2013, ApJ, 772, 37
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...772...37D&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Denissenkov \& Tout(2003)}]{Denissenkov:2003gx}
+Denissenkov, P.~A., \& Tout, C.~A. 2003, MNRAS, 340, 722
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003MNRAS.340..722D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Denissenkov {et~al.}(2015{\natexlab{a}})Denissenkov, Truran, Herwig,
+  Jones, Paxton, Nomoto, Suzuki, \& Toki}]{Denissenkov:2015bi}
+Denissenkov, P.~A., Truran, J.~W., Herwig, F., Jones, S., Paxton, B., Nomoto,
+  K., Suzuki, T., \& Toki, H. 2015{\natexlab{a}}, MNRAS, 447, 2696
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.447.2696D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Denissenkov {et~al.}(2015{\natexlab{b}})Denissenkov, VandenBerg,
+  Hartwick, Herwig, Weiss, \& Paxton}]{Denissenkov:2015dw}
+Denissenkov, P.~A., VandenBerg, D.~A., Hartwick, F. D.~A., Herwig, F., Weiss,
+  A., \& Paxton, B. 2015{\natexlab{b}}, MNRAS, 448, 3314
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.448.3314D&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{D'Ercole {et~al.}(2011)D'Ercole, D'Antona, \&
+  Vesperini}]{DErcole:2011jc}
+D'Ercole, A., D'Antona, F., \& Vesperini, E. 2011, MNRAS, 415, 1304
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.415.1304D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Descouvemont(1993)}]{Descouvemont:1993kc}
+Descouvemont, P. 1993, Phys. Rev. C, 48, 2746
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993PhRvC..48.2746D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Dicke {et~al.}(1965)Dicke, Peebles, Roll, \&
+  Wilkinson}]{Dicke:1965hc}
+Dicke, R.~H., Peebles, P. J.~E., Roll, P.~G., \& Wilkinson, D.~T. 1965, ApJ,
+  142, 414
+{}
+ \href{http://adsabs.harvard.edu/abs/1965ApJ...142..414D}{\urllinklabel}
+
+\bibitem[{Dillmann {et~al.}(2006)Dillmann, Heil, Kappeler, Plag, Rauscher, \&
+  Thielemann}]{Dillmann:2006fl}
+Dillmann, I., Heil, M., Kappeler, F., Plag, R., Rauscher, T., \& Thielemann,
+  F.-K. 2006, in CAPTURE GAMMA-RAY SPECTROSCOPY AND RELATED TOPICS: 12th
+  International Symposium. AIP Conference Proceedings, Institut f{\"u}r
+  Kernphysik, Forschungszentrum Karlsruhe, Postfach 3640, D-76021 Karlsruhe,
+  Germany; Departement Physik und Astronomie, Universit{\"a}t Basel,
+  Klingelbergstrasse 82, CH-4056 Basel, Switzerland, 123--127
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006AIPC..819..123D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Doherty {et~al.}(2014)Doherty, Gil-Pons, Lau, Lattanzio, Siess, \&
+  Campbell}]{Doherty:2014hx}
+Doherty, C.~L., Gil-Pons, P., Lau, H. H.~B., Lattanzio, J.~C., Siess, L., \&
+  Campbell, S.~W. 2014, MNRAS, 441, 582
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.441..582D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Doherty {et~al.}(2015)Doherty, Gil-Pons, Siess, Lattanzio, \&
+  Lau}]{Doherty:2015ek}
+Doherty, C.~L., Gil-Pons, P., Siess, L., Lattanzio, J.~C., \& Lau, H. H.~B.
+  2015, MNRAS, 446, 2599
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.446.2599D&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Doherty {et~al.}(2010)Doherty, Siess, Lattanzio, \&
+  Gil-Pons}]{Doherty:2010fk}
+Doherty, C.~L., Siess, L., Lattanzio, J.~C., \& Gil-Pons, P. 2010, MNRAS, 401,
+  1453
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.401.1453D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D{\textquoteright}Orazi {et~al.}(2012)D{\textquoteright}Orazi,
+  Biazzo, Desidera, Covino, Andrievsky, \& Gratton}]{DOrazi:2012eu}
+D{\textquoteright}Orazi, V., Biazzo, K., Desidera, S., Covino, E., Andrievsky,
+  S.~M., \& Gratton, R.~G. 2012, MNRAS, 423, 2789
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012MNRAS.423.2789D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D{\textquoteright}Orazi {et~al.}(2013)D{\textquoteright}Orazi,
+  Campbell, Lugaro, Lattanzio, \& Carretta}]{DOrazi:2013jr}
+D{\textquoteright}Orazi, V., Campbell, S.~W., Lugaro, M.~A., Lattanzio, J.~C.,
+  \& Carretta, E. 2013, MNRAS, 433, 366
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.433..366D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D'Orazi {et~al.}(2010)D'Orazi, Gratton, Lucatello, Carretta,
+  Bragaglia, \& Marino}]{DOrazi:2010fs}
+D'Orazi, V., Gratton, R., Lucatello, S., Carretta, E., Bragaglia, A., \&
+  Marino, A.~F. 2010, ApJL, 719, L213
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...719L.213D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D'Orazi {et~al.}(2013{\natexlab{a}})D'Orazi, Lugaro, Campbell,
+  Bragaglia, Carretta, Gratton, Lucatello, \& D'Antona}]{DOrazi:2013bq}
+D'Orazi, V., Lugaro, M.~A., Campbell, S.~W., Bragaglia, A., Carretta, E.,
+  Gratton, R.~G., Lucatello, S., \& D'Antona, F. 2013{\natexlab{a}}, ApJ, 776,
+  59
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...776...59D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D'Orazi \& Marino(2010)}]{DOrazi:2010kb}
+D'Orazi, V., \& Marino, A.~F. 2010, ApJL, 716, L166
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...716L.166D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{D'Orazi {et~al.}(2013{\natexlab{b}})D'Orazi, Lucatello, Lugaro,
+  Gratton, Angelou, Bragaglia, Carretta, Alves-Brito, Ivans, Masseron, \&
+  Mucciarelli}]{DOrazi:2013dm}
+D'Orazi, V., {et~al.} 2013{\natexlab{b}}, ApJ, 763, 22
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...763...22D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Dotter {et~al.}(2009)Dotter, Kaluzny, \& Thompson}]{Dotter:2009cq}
+Dotter, A., Kaluzny, J., \& Thompson, I.~B. 2009, IAU, 4, 171
+{}
+ \href{http://www.journals.cambridge.org/abstract_S1743921309031822}{\urllinklabel}
+
+\bibitem[{Dotter {et~al.}(2010)Dotter, Sarajedini, Anderson, Aparicio, Bedin,
+  Chaboyer, Majewski, Marin~Franch, Milone, Paust, Piotto, Reid, Rosenberg, \&
+  Siegel}]{Dotter:2010ek}
+Dotter, A., {et~al.} 2010, ApJ, 708, 698
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...708..698D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Drake {et~al.}(1992)Drake, Smith, \& Suntzeff}]{Drake:1992kw}
+Drake, J.~J., Smith, V.~V., \& Suntzeff, N.~B. 1992, ApJ, 395, L95
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1992ApJ...395L..95D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Dunbar {et~al.}(1953)Dunbar, Pixley, Wenzel, \&
+  Whaling}]{Dunbar:1953em}
+Dunbar, D.~N., Pixley, R.~E., Wenzel, W.~A., \& Whaling, W. 1953, Phys. Rev.,
+  92, 649
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1953PhRv...92..649D&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Dupree \& Avrett(2013)}]{Dupree:2013cb}
+Dupree, A.~K., \& Avrett, E.~H. 2013, ApJL, 773, L28
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...773L..28D&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ekstr{\"o}m(2006)}]{Meynet:2006bh}
+Ekstr{\"o}m, S. 2006, A{\&}A, 447, 623
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006A%26A...447..623M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ekstr{\"o}m \& Charbonnel(2008)}]{Chiappini:2008fe}
+Ekstr{\"o}m, S., \& Charbonnel, C. 2008, A{\&}A, 479, L9
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...479L...9C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ekstr{\"o}m \& Matteucci(2006)}]{Chiappini:2006km}
+Ekstr{\"o}m, S., \& Matteucci, F. 2006, A{\&}A, 449, L27
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006A%26A...449L..27C&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Fabbian {et~al.}(2009)Fabbian, Nissen, Asplund, Pettini, \&
+  Akerman}]{Fabbian:2009jh}
+Fabbian, D., Nissen, P.~E., Asplund, M., Pettini, M., \& Akerman, C. 2009,
+  A{\&}A, 500, 1143
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...500.1143F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Fenner {et~al.}(2004)Fenner, Campbell, Karakas, Lattanzio, \&
+  Gibson}]{Fenner:2004ju}
+Fenner, Y., Campbell, S., Karakas, A.~I., Lattanzio, J.~C., \& Gibson, B.~K.
+  2004, MNRAS, 353, 789
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004MNRAS.353..789F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Fishlock {et~al.}(2014{\natexlab{a}})Fishlock, Karakas, Lugaro, \&
+  Yong}]{Fishlock:2014jq}
+Fishlock, C.~K., Karakas, A.~I., Lugaro, M.~A., \& Yong, D. 2014{\natexlab{a}},
+  ApJ, 797, 44
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...797...44F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Fishlock {et~al.}(2014{\natexlab{b}})Fishlock, Karakas, \&
+  Stancliffe}]{Fishlock:2014hn}
+Fishlock, C.~K., Karakas, A.~I., \& Stancliffe, R.~J. 2014{\natexlab{b}},
+  MNRAS, 438, 1741
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.438.1741F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Freeman(1993)}]{Freeman:1993vl}
+Freeman, K.~C. 1993, Why Galaxies Care about AGB Stars II: Shining Examples and
+  Common Inhabitants, 48, 608
+{}
+ \href{http://adsabs.harvard.edu/abs/1993ASPC...48..608F}{\urllinklabel}
+
+\bibitem[{Friedmann(1922)}]{Friedmann:1922cp}
+Friedmann, A. 1922, Z. Astrophys., 10, 377
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1922ZPhy...10..377F&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Frischknecht \& Thielemann(2012)}]{Frischknecht:2012il}
+Frischknecht, U., \& Thielemann, F.-K. 2012, A{\&}A, 538, L2
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...538L...2F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Frost {et~al.}(1998)Frost, Cannon, Lattanzio, Wood, \&
+  Forestini}]{Frost:1998vn}
+Frost, C.~A., Cannon, R.~C., Lattanzio, J.~C., Wood, P.~R., \& Forestini, M.
+  1998, A{\&}A, 332, L17
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1998A%26A...332L..17F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Frost \& Lattanzio(1996)}]{Frost:1996fu}
+Frost, C.~A., \& Lattanzio, J.~C. 1996, ApJ, 473, 383
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996ApJ...473..383F&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gallino {et~al.}(1998)Gallino, Arlandini, Busso, Lugaro, Travaglio,
+  Straniero, Chieffi, \& Limongi}]{Gallino:1998eg}
+Gallino, R., Arlandini, C., Busso, M., Lugaro, M.~A., Travaglio, C., Straniero,
+  O., Chieffi, A., \& Limongi, M. 1998, ApJ, 497, 388
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1998ApJ...497..388G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gallino {et~al.}(2010)Gallino, Heil, Wiescher, Kappeler, Herwig, \&
+  Bisterzo}]{Pignatari:2010ir}
+Gallino, R., Heil, M., Wiescher, M., Kappeler, F., Herwig, F., \& Bisterzo, S.
+  2010, ApJ, 710, 1557
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...710.1557P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gallino {et~al.}(2008)Gallino, Herwig, \&
+  Wiescher}]{Pignatari:2008ec}
+Gallino, R., Herwig, F., \& Wiescher, M. 2008, ApJ, 687, L95
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJ...687L..95P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gamow(1946)}]{Gamow:1946hk}
+Gamow, G. 1946, AJ, 70, 572
+{}
+ \href{http://link.aps.org/doi/10.1103/PhysRev.70.572.2}{\urllinklabel}
+
+\bibitem[{Garcia-Berro \& Iben(1994)}]{GarciaBerro:1994kp}
+Garcia-Berro, E., \& Iben, I. 1994, ApJ, 434, 306
+{}
+ \href{http://adsabs.harvard.edu/abs/1994ApJ...434..306G}{\urllinklabel}
+
+\bibitem[{Garc{\'\i}a-Hern{\'a}ndez {et~al.}(2013)Garc{\'\i}a-Hern{\'a}ndez,
+  Zamora, Yag{\"u}e, Uttenthaler, Karakas, Lugaro, Ventura, \&
+  Lambert}]{GarciaHernandez:2013ko}
+Garc{\'\i}a-Hern{\'a}ndez, D.~A., Zamora, O., Yag{\"u}e, A., Uttenthaler, S.,
+  Karakas, A.~I., Lugaro, M.~A., Ventura, P., \& Lambert, D.~L. 2013, A{\&}A,
+  555, L3
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...555L...3G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gil-Pons {et~al.}(2013)Gil-Pons, Doherty, Lau, Campbell, Suda,
+  Guilani, Guti{\'e}rrez, \& Lattanzio}]{GilPons:2013ch}
+Gil-Pons, P., Doherty, C.~L., Lau, H., Campbell, S.~W., Suda, T., Guilani, S.,
+  Guti{\'e}rrez, J., \& Lattanzio, J.~C. 2013, A{\&}A, 557, A106
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013A%26A...557A.106G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Goriely(1999)}]{Goriely:1999wj}
+Goriely, S. 1999, A{\&}A, 342, 881
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...342..881G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Goriely \& Mowlavi(2000)}]{Goriely:2000vs}
+Goriely, S., \& Mowlavi, N. 2000, A{\&}A, 362, 599
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000A%26A...362..599G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Goriely \& Siess(2004)}]{Goriely:2004gw}
+Goriely, S., \& Siess, L. 2004, A{\&}A, 421, L25
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004A%26A...421L..25G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gratton {et~al.}(2004)Gratton, Sneden, \& Carretta}]{Gratton:2004dy}
+Gratton, R., Sneden, C., \& Carretta, E. 2004, ARA{\&}A, 42, 385
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ARA%26A..42..385G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gratton {et~al.}(2000)Gratton, Sneden, Carretta, \&
+  Bragaglia}]{Gratton:2000wg}
+Gratton, R.~G., Sneden, C., Carretta, E., \& Bragaglia, A. 2000, A{\&}A, 354,
+  169
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000A%26A...354..169G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Gratton {et~al.}(2001)Gratton, Bonifacio, Bragaglia, Carretta,
+  Castellani, Centuri{\'o}n, Chieffi, Claudi, Clementini, D'Antona, Desidera,
+  Francois, Grundahl, Lucatello, Molaro, Pasquini, Sneden, Spite, \&
+  Straniero}]{Gratton:2001ew}
+Gratton, R.~G., {et~al.} 2001, A{\&}A, 369, 87
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001A%26A...369...87G&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Guo {et~al.}(2012)Guo, Li, Lugaro, Buntain, Pang, Li, Su, Yan, Bai,
+  Chen, Fan, Jin, Karakas, Li, Li, Lian, Liu, Liu, Shi, Shu, Wang, Wang, Zeng,
+  \& Liu}]{Guo:2012ck}
+Guo, B., {et~al.} 2012, ApJ, 756, 193
+{}
+ \href{http://stacks.iop.org/0004-637X/756/i=2/a=193?key=crossref.644e5f25f87534f01ccfb9d388d427a6}{\urllinklabel}
+
+\bibitem[{Hale {et~al.}(2004)Hale, Champagne, Iliadis, Hansper, Powell, \&
+  Blackmon}]{Hale:2004fa}
+Hale, S.~E., Champagne, A.~E., Iliadis, C., Hansper, V.~Y., Powell, D.~C., \&
+  Blackmon, J.~C. 2004, Phys. Rev. C, 70, 045802
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004PhRvC..70d5802H&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Harris(1996)}]{Harris:1996fr}
+Harris, W.~E. 1996, AJ, 112, 1487
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996AJ....112.1487H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Hayashi(1950)}]{Hayashi:1950wg}
+Hayashi, C. 1950, Progress of Theoretical Physics, 5, 224
+{}
+ \href{http://adsabs.harvard.edu/abs/1950PThPh...5..224H}{\urllinklabel}
+
+\bibitem[{Heil {et~al.}(2008)Heil, Kappeler, Uberseder, Gallino, \&
+  Bisterzo}]{Heil:2008kl}
+Heil, M., Kappeler, F., Uberseder, E., Gallino, R., \& Bisterzo, S. 2008, Phys.
+  Rev. C, 78, 025802
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008PhRvC..78b5802H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Henry {et~al.}(2004)Henry, Kwitter, \& Balick}]{Henry:2004ds}
+Henry, R. B.~C., Kwitter, K.~B., \& Balick, B. 2004, AJ, 127, 2284
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004AJ....127.2284H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Henry {et~al.}(2012)Henry, Speck, Karakas, Ferland, \&
+  Maguire}]{Henry:2012gd}
+Henry, R. B.~C., Speck, A., Karakas, A.~I., Ferland, G.~J., \& Maguire, M.
+  2012, ApJ, 749, 61
+{}
+ \href{http://stacks.iop.org/0004-637X/749/i=1/a=61?key=crossref.628e3b56fc1d1b56349050d2cb5886f6}{\urllinklabel}
+
+\bibitem[{Henyey {et~al.}(1964)Henyey, Forbes, \& Gould}]{Henyey:1964ip}
+Henyey, L.~G., Forbes, J.~E., \& Gould, N.~L. 1964, ApJ, 139, 306
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/147754}{\urllinklabel}
+
+\bibitem[{Henyey {et~al.}(1959)Henyey, Wilets, B{\"o}hm, Lelevier, \&
+  Levee}]{Henyey:1959iz}
+Henyey, L.~G., Wilets, L., B{\"o}hm, K.~H., Lelevier, R., \& Levee, R.~D. 1959,
+  ApJ, 129, 628
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/146661}{\urllinklabel}
+
+\bibitem[{Herwig(2000)}]{Herwig:2000ua}
+Herwig, F. 2000, A{\&}A, 360, 952
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000A%26A...360..952H&link_type=PREPRINT}{\urllinklabel}
+
+\bibitem[{Herwig(2004)}]{Herwig:2004ki}
+---. 2004, ApJ, 605, 425
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ApJ...605..425H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Herwig(2005)}]{Herwig:2005jn}
+---. 2005, ARA{\&}A, 43, 435
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ARA%26A..43..435H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Herwig {et~al.}(1999)Herwig, Bl{\"o}cker, Langer, \&
+  Driebe}]{Herwig:1999uf}
+Herwig, F., Bl{\"o}cker, T., Langer, N., \& Driebe, T. 1999, A{\&}A, 349, L5
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...349L...5H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Herwig \& Langer(2001)}]{Herwig:2001vb}
+Herwig, F., \& Langer, N. 2001, Mem. Soc. Astron. Ital., 72, 277
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001MmSAI..72..277H&link_type=PREPRINT}{\urllinklabel}
+
+\bibitem[{Herwig {et~al.}(2003)Herwig, Langer, \& Lugaro}]{Herwig:2003du}
+Herwig, F., Langer, N., \& Lugaro, M.~A. 2003, ApJ, 593, 1056
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ApJ...593.1056H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Herwig {et~al.}(2011)Herwig, Pignatari, Woodward, Porter,
+  Rockefeller, Fryer, Bennett, \& Hirschi}]{Herwig:2011dj}
+Herwig, F., Pignatari, M., Woodward, P.~R., Porter, D.~H., Rockefeller, G.,
+  Fryer, C.~L., Bennett, M., \& Hirschi, R. 2011, ApJ, 727, 89
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJ...727...89H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Herwig {et~al.}(2008)Herwig, Diehl, Fryer, Hungerford, Magkotsios,
+  Rockefeller, Timmes, Young, \& Bennet}]{Herwig:2008ur}
+Herwig, F., {et~al.} 2008, in "Proceedings of the 10th Symposium on Nuclei in
+  the Cosmos (NIC X). July 27 - August 1, 23
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008nuco.confE..23H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Hirschi(2007)}]{Hirschi:2007br}
+Hirschi, R. 2007, A{\&}A, 461, 571
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...461..571H&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Hollowell \& Iben(1989)}]{Hollowell:1989bd}
+Hollowell, D., \& Iben, I.~J. 1989, ApJ, 340, 966
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1989ApJ...340..966H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Hoyle(1948)}]{Hoyle:1948ul}
+Hoyle, F. 1948, MNRAS, 108, 372
+{}
+ \href{http://adsabs.harvard.edu/abs/1948MNRAS.108..372H}{\urllinklabel}
+
+\bibitem[{Hoyle(1954)}]{Hoyle:1954fx}
+---. 1954, Astrophysical Journal Supplement, 1, 121
+{}
+ \href{http://adsabs.harvard.edu/abs/1954ApJS....1..121H}{\urllinklabel}
+
+\bibitem[{Hubble(1929)}]{Hubble:1929ic}
+Hubble, E. 1929, in Proceedings of the National Academy of Sciences of the
+  United States of America, 168--173
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1929PNAS...15..168H&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Hunter(2007)}]{Hunter:2007ih}
+Hunter, J.~D. 2007, Comput. Sci. Eng., 9, 90
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007CSE.....9...90H&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Iben(1975{\natexlab{a}})}]{Iben:1975bn}
+Iben, I.~J. 1975{\natexlab{a}}, ApJ, 196, 549
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1975ApJ...196..549I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Iben(1975{\natexlab{b}})}]{Iben:1975js}
+---. 1975{\natexlab{b}}, ApJ, 196, 525
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1975ApJ...196..525I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Iben {et~al.}(1983)Iben, Kaler, Truran, \& Renzini}]{Iben:1983hc}
+Iben, I.~J., Kaler, J.~B., Truran, J.~W., \& Renzini, A. 1983, ApJ, 264, 605
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1983ApJ...264..605I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Iben \& Renzini(1982)}]{Iben:1982cv}
+Iben, I.~J., \& Renzini, A. 1982, ApJ, 259, L79
+{}
+ \href{http://adsabs.harvard.edu/abs/1982ApJ...259L..79I}{\urllinklabel}
+
+\bibitem[{Iglesias \& Rogers(1996)}]{Iglesias:1996dp}
+Iglesias, C.~A., \& Rogers, F.~J. 1996, ApJ, 464, 943
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/177381}{\urllinklabel}
+
+\bibitem[{Iliadis(2007)}]{Iliadis:2007ta}
+Iliadis, C. 2007, {Nuclear physics of stars} (LibreDigital)
+{}
+ \href{http://onlinelibrary.wiley.com/doi/10.1002/9783527618750.index/summary}{\urllinklabel}
+
+\bibitem[{Iliadis {et~al.}(2010)Iliadis, Longland, Champagne, Coc, \&
+  Fitzgerald}]{Iliadis:2010eu}
+Iliadis, C., Longland, R.~L., Champagne, A.~E., Coc, A., \& Fitzgerald, R.
+  2010, Nuc. Phys. A, 841, 31
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010NuPhA.841...31I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ivans {et~al.}(2001)Ivans, Kraft, Sneden, Smith, Rich, \&
+  Shetrone}]{Ivans:2001ju}
+Ivans, I.~I., Kraft, R.~P., Sneden, C., Smith, G.~H., Rich, R.~M., \& Shetrone,
+  M. 2001, AJ, 122, 1438
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001AJ....122.1438I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ivans {et~al.}(1999)Ivans, Sneden, Kraft, Suntzeff, Smith, Langer, \&
+  Fulbright}]{Ivans:1999hf}
+Ivans, I.~I., Sneden, C., Kraft, R.~P., Suntzeff, N.~B., Smith, V.~V., Langer,
+  G.~E., \& Fulbright, J.~P. 1999, AJ, 118, 1273
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999AJ....118.1273I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Izzard {et~al.}(2006)Izzard, Dray, Karakas, Lugaro, \&
+  Tout}]{Izzard:2006ij}
+Izzard, R.~G., Dray, L.~M., Karakas, A.~I., Lugaro, M.~A., \& Tout, C.~A. 2006,
+  A{\&}A, 460, 565
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006A%26A...460..565I&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Izzard {et~al.}(2009)Izzard, Glebbeek, Stancliffe, \&
+  Pols}]{Izzard:2009hg}
+Izzard, R.~G., Glebbeek, E., Stancliffe, R.~J., \& Pols, O.~R. 2009, A{\&}A,
+  508, 1359
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...508.1359I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Izzard {et~al.}(2004)Izzard, Tout, Karakas, \& Pols}]{Izzard:2004bq}
+Izzard, R.~G., Tout, C.~A., Karakas, A.~I., \& Pols, O.~R. 2004, MNRAS, 350,
+  407
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004MNRAS.350..407I&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Jaeger {et~al.}(2001)Jaeger, Kunz, Mayer, Hammer, Staudt, Kratz, \&
+  Pfeiffer}]{Jaeger:2001ch}
+Jaeger, M., Kunz, R., Mayer, A., Hammer, J.~W., Staudt, G., Kratz, K.~L., \&
+  Pfeiffer, B. 2001, Physical Review Letters, 87, 202501
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001PhRvL..87t2501J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Jahn {et~al.}(2007)Jahn, Rauch, Reiff, Werner, Kruk, \&
+  Herwig}]{Jahn:2007ip}
+Jahn, D., Rauch, T., Reiff, E., Werner, K., Kruk, J.~W., \& Herwig, F. 2007,
+  A{\&}A, 462, 281
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...462..281J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{James {et~al.}(2004)James, Francois, Bonifacio, Carretta, Gratton, \&
+  Spite}]{James:2004br}
+James, G., Francois, P., Bonifacio, P., Carretta, E., Gratton, R.~G., \& Spite,
+  F. 2004, A{\&}A, 427, 825
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004A%26A...427..825J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Johnson \& Pilachowski(2010)}]{Johnson:2010fs}
+Johnson, C.~I., \& Pilachowski, C.~A. 2010, ApJ, 722, 1373
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...722.1373J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Johnson \& Sandage(1955)}]{Johnson:1955ec}
+Johnson, H.~L., \& Sandage, A.~R. 1955, ApJ, 121, 616
+{}
+ \href{http://adsabs.harvard.edu/abs/1955ApJ...121..616J}{\urllinklabel}
+
+\bibitem[{Jones {et~al.}(2013)Jones, Nomoto, Fischer, Timmes, Herwig, Paxton,
+  Toki, Suzuki, Mart{\'\i}nez-Pinedo, Lam, \& Bertolli}]{Jones:2013iw}
+Jones, S., {et~al.} 2013, ApJ, 772, 150
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...772..150J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Joo \& Lee(2013)}]{Joo:2013dr}
+Joo, S.-J., \& Lee, Y.-W. 2013, ApJ, 762, 36
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...762...36J&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Jorissen {et~al.}(1992)Jorissen, Smith, \& Lambert}]{Jorissen:1992us}
+Jorissen, A., Smith, V.~V., \& Lambert, D.~L. 1992, A{\&}A, 261, 164
+{}
+ \href{http://adsabs.harvard.edu/abs/1992A&A...261..164J}{\urllinklabel}
+
+\bibitem[{Kamath {et~al.}(2012)Kamath, Karakas, \& Wood}]{Kamath:2012jk}
+Kamath, D., Karakas, A.~I., \& Wood, P.~R. 2012, ApJ, 746, 20
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJ...746...20K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas(2010)}]{Karakas:2010et}
+Karakas, A.~I. 2010, MNRAS, 403, 1413
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MNRAS.403.1413K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas(2014)}]{Karakas:2014jv}
+---. 2014, MNRAS, 445, 347
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.445..347K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2010{\natexlab{a}})Karakas, Campbell, Lugaro, Yong,
+  \& Chieffi}]{Karakas:2010wy}
+Karakas, A.~I., Campbell, S.~W., Lugaro, M.~A., Yong, D., \& Chieffi, A.
+  2010{\natexlab{a}}, Mem. Soc. Astron. Ital., 81, 1010
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010MmSAI..81.1010K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2010{\natexlab{b}})Karakas, Campbell, \&
+  Stancliffe}]{Karakas:2010dk}
+Karakas, A.~I., Campbell, S.~W., \& Stancliffe, R.~J. 2010{\natexlab{b}}, ApJ,
+  713, 374
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...713..374K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2006{\natexlab{a}})Karakas, Fenner, Sills, Campbell,
+  \& Lattanzio}]{Karakas:2006fg}
+Karakas, A.~I., Fenner, Y., Sills, A., Campbell, S.~W., \& Lattanzio, J.~C.
+  2006{\natexlab{a}}, ApJ, 652, 1240
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006ApJ...652.1240K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2012)Karakas, Garc{\'\i}a-Hern{\'a}ndez, \&
+  Lugaro}]{Karakas:2012kc}
+Karakas, A.~I., Garc{\'\i}a-Hern{\'a}ndez, D.~A., \& Lugaro, M.~A. 2012, ApJ,
+  751, 8
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJ...751....8K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas \& Lattanzio(2003{\natexlab{a}})}]{Karakas:2003dj}
+Karakas, A.~I., \& Lattanzio, J.~C. 2003{\natexlab{a}}, Publ. Astron. Soc.
+  Aust., 20, 393
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003PASA...20..393K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas \& Lattanzio(2003{\natexlab{b}})}]{Karakas:2003el}
+---. 2003{\natexlab{b}}, Publ. Astron. Soc. Aust., 20, 279
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003PASA...20..279K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas \& Lattanzio(2007)}]{Karakas:2007gn}
+---. 2007, Publ. Astron. Soc. Aust., 24, 103
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007PASA...24..103K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas \& Lattanzio(2014)}]{Karakas:2014jt}
+---. 2014, Publ. Astron. Soc. Aust., 31, e030
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014PASA...31...30K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2002)Karakas, Lattanzio, \& Pols}]{Karakas:2002ci}
+Karakas, A.~I., Lattanzio, J.~C., \& Pols, O.~R. 2002, Publ. Astron. Soc.
+  Aust., 19, 515
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2002PASA...19..515K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas \& Lugaro(2010)}]{Karakas:2010ez}
+Karakas, A.~I., \& Lugaro, M.~A. 2010, Publ. Astron. Soc. Aust., 27, 227
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010PASA...27..227K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2006{\natexlab{b}})Karakas, Lugaro, Wiescher,
+  Gorres, \& Ugalde}]{Karakas:2006fk}
+Karakas, A.~I., Lugaro, M.~A., Wiescher, M., Gorres, J., \& Ugalde, C.
+  2006{\natexlab{b}}, ApJ, 643, 471
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006ApJ...643..471K&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2014)Karakas, Marino, \& Nataf}]{Karakas:2014ja}
+Karakas, A.~I., Marino, A.~F., \& Nataf, D.~M. 2014, ApJ, 784, 32
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...784...32K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Karakas {et~al.}(2009)Karakas, van Raai, Lugaro, Sterling, \&
+  Dinerstein}]{Karakas:2009ha}
+Karakas, A.~I., van Raai, M.~A., Lugaro, M.~A., Sterling, N.~C., \& Dinerstein,
+  H.~L. 2009, ApJ, 690, 1130
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009ApJ...690.1130K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Kennicutt \& Evans(2012)}]{Kennicutt:2012ey}
+Kennicutt, R.~C., \& Evans, N.~J. 2012, ARA{\&}A, 50, 531
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ARA%26A..50..531K&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{King {et~al.}(2012)King, Bedin, Cassisi, Milone, Bellini, Piotto,
+  Anderson, Pietrinferni, \& Cordier}]{King:2012bf}
+King, I.~R., {et~al.} 2012, AJ, 144, 5
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012AJ....144....5K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Kobayashi {et~al.}(2011)Kobayashi, Karakas, \&
+  Umeda}]{Kobayashi:2011hj}
+Kobayashi, C., Karakas, A.~I., \& Umeda, H. 2011, MNRAS, 414, 3231
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.414.3231K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Kobayashi {et~al.}(2006)Kobayashi, Umeda, Nomoto, Tominaga, \&
+  Ohkubo}]{Kobayashi:2006fh}
+Kobayashi, C., Umeda, H., Nomoto, K., Tominaga, N., \& Ohkubo, T. 2006, ApJ,
+  653, 1145
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006ApJ...653.1145K&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Koehler(2002)}]{Koehler:2002cf}
+Koehler, P.~E. 2002, Phys. Rev. C, 66, 55805
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2002PhRvC..66e5805K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Kraft {et~al.}(1997)Kraft, Sneden, Smith, Shetrone, Langer, \&
+  Pilachowski}]{Kraft:1997hp}
+Kraft, R.~P., Sneden, C., Smith, G.~H., Shetrone, M.~D., Langer, G.~E., \&
+  Pilachowski, C.~A. 1997, Astronomical Journal v.113, 113, 279
+{}
+ \href{http://adsabs.harvard.edu/abs/1997AJ....113..279K}{\urllinklabel}
+
+\bibitem[{Kraft {et~al.}(1982)Kraft, Suntzeff, Langer, Trefzger, Friel, Stone,
+  \& Carbon}]{Kraft:1982es}
+Kraft, R.~P., Suntzeff, N.~B., Langer, G.~E., Trefzger, C.~F., Friel, E.,
+  Stone, R. P.~S., \& Carbon, D.~F. 1982, Astronomical Society of the Pacific,
+  94, 55
+{}
+ \href{http://www.jstor.org/stable/10.2307/40677913}{\urllinklabel}
+
+\bibitem[{Kromer {et~al.}(2015)Kromer, Ohlmann, Pakmor, Ruiter, Hillebrandt,
+  Marquardt, R{\"o}pke, Seitenzahl, Sim, \& Taubenberger}]{Kromer:2015fk}
+Kromer, M., {et~al.} 2015, MNRAS, 450, 3045
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.450.3045K&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Kroupa {et~al.}(1993)Kroupa, Tout, \& Gilmore}]{Kroupa:1993tm}
+Kroupa, P., Tout, C.~A., \& Gilmore, G. 1993, MNRAS, 262, 545
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993MNRAS.262..545K&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Langer {et~al.}(1993)Langer, Hoffman, \& Sneden}]{Langer:1993dx}
+Langer, G.~E., Hoffman, R., \& Sneden, C. 1993, PASP, 105, 301
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993PASP..105..301L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Langer(2012)}]{Langer:2012jy}
+Langer, N. 2012, ARA{\&}A, 50, 107
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ARA%26A..50..107L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Langer {et~al.}(1999)Langer, Heger, Wellstein, \&
+  Herwig}]{Langer:1999tj}
+Langer, N., Heger, A., Wellstein, S., \& Herwig, F. 1999, A{\&}A, 346, L37
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...346L..37L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lattanzio(1986)}]{Lattanzio:1986cz}
+Lattanzio, J.~C. 1986, ApJ, 311, 708
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1986ApJ...311..708L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lattanzio(1992)}]{Lattanzio:1992uz}
+---. 1992, Astron. Soc. Aust. Proc., 10, 120
+{}
+ \href{http://adsabs.harvard.edu/abs/1992PASAu..10..120L}{\urllinklabel}
+
+\bibitem[{Lau {et~al.}(2012)Lau, Gil-Pons, Doherty, \& Lattanzio}]{Lau:2012ef}
+Lau, H. H.~B., Gil-Pons, P., Doherty, C.~L., \& Lattanzio, J.~C. 2012, A{\&}A,
+  542, A1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...542A...1L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lebzelter \& Wood(2007)}]{Lebzelter:2007ho}
+Lebzelter, T., \& Wood, P.~R. 2007, A{\&}A, 475, 643
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...475..643L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lederer \& Aringer(2009)}]{Lederer:2009da}
+Lederer, M.~T., \& Aringer, B. 2009, MNRAS, 494, 403
+{}
+ \href{http://www.aanda.org/10.1051/0004-6361:200810576}{\urllinklabel}
+
+\bibitem[{Lema{\^\i}tre(1927)}]{Lemaitre:1927uy}
+Lema{\^\i}tre, G. 1927, Annales de la Soci{\'e}t{\'e} Scientifique de
+  Bruxelles, 47, 49
+{}
+ \href{http://adsabs.harvard.edu/abs/1927ASSB...47...49L}{\urllinklabel}
+
+\bibitem[{Limongi \& Chieffi(2012)}]{Limongi:2012ei}
+Limongi, M., \& Chieffi, A. 2012, ApJS, 199, 38
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJS..199...38L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lodders(2003)}]{Lodders:2003bf}
+Lodders, K. 2003, ApJ, 591, 1220
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ApJ...591.1220L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Longland {et~al.}(2012)Longland, Iliadis, \&
+  Karakas}]{Longland:2012ix}
+Longland, R.~L., Iliadis, C., \& Karakas, A.~I. 2012, Phys. Rev. C, 85, 65809
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012PhRvC..85f5809L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Longland {et~al.}(2009)Longland, Iliadis, Rusev, Tonchev, deBoer,
+  Gorres, \& Wiescher}]{Longland:2009dp}
+Longland, R.~L., Iliadis, C., Rusev, G., Tonchev, A.~P., deBoer, R.~J., Gorres,
+  J., \& Wiescher, M. 2009, A{\&}A, 80, 055803
+{}
+ \href{http://link.aps.org/doi/10.1103/PhysRevC.80.055803}{\urllinklabel}
+
+\bibitem[{Lugaro {et~al.}(2003)Lugaro, Herwig, Lattanzio, Gallino, \&
+  Straniero}]{Lugaro:2003ew}
+Lugaro, M.~A., Herwig, F., Lattanzio, J.~C., Gallino, R., \& Straniero, O.
+  2003, ApJ, 586, 1305
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ApJ...586.1305L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lugaro {et~al.}(2012)Lugaro, Karakas, Stancliffe, \&
+  Rijs}]{Lugaro:2012ht}
+Lugaro, M.~A., Karakas, A.~I., Stancliffe, R.~J., \& Rijs, C. 2012, ApJ, 747, 2
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJ...747....2L&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Lugaro {et~al.}(2004)Lugaro, Ugalde, Karakas, G{\"o}rres, Wiescher,
+  Lattanzio, \& Cannon}]{Lugaro:2004en}
+Lugaro, M.~A., Ugalde, C., Karakas, A.~I., G{\"o}rres, J., Wiescher, M.,
+  Lattanzio, J.~C., \& Cannon, R.~C. 2004, ApJ, 615, 934
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ApJ...615..934L&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Maeder \& Meynet(2000)}]{Maeder:2000br}
+Maeder, A., \& Meynet, G. 2000, ARA{\&}A, 38, 143
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000ARA%26A..38..143M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Magic \& Asplund(2014)}]{Magic:2014vb}
+Magic, Z., \& Asplund, M. 2014, eprint arXiv:1405.7628
+{}
+ \href{http://adsabs.harvard.edu/abs/2014arXiv1405.7628M}{\urllinklabel}
+
+\bibitem[{Maiorca {et~al.}(2012)Maiorca, Magrini, Busso, Randich, Palmerini, \&
+  Trippella}]{Maiorca:2012dk}
+Maiorca, E., Magrini, L., Busso, M., Randich, S., Palmerini, S., \& Trippella,
+  O. 2012, ApJ, 747, 53
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012ApJ...747...53M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marigo(2002)}]{Marigo:2002cu}
+Marigo, P. 2002, A{\&}A, 387, 507
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2002A%26A...387..507M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marigo \& Aringer(2009)}]{Marigo:2009gz}
+Marigo, P., \& Aringer, B. 2009, A{\&}A, 508, 1539
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...508.1539M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marigo {et~al.}(2003)Marigo, Bernard-Salas, Pottasch, Tielens, \&
+  Wesselius}]{Marigo:2003km}
+Marigo, P., Bernard-Salas, J., Pottasch, S.~R., Tielens, A. G. G.~M., \&
+  Wesselius, P.~R. 2003, A{\&}A, 409, 619
+{}
+ \href{http://www.edpsciences.org/10.1051/0004-6361:20030953}{\urllinklabel}
+
+\bibitem[{Marigo {et~al.}(1999)Marigo, Girardi, Weiss, \&
+  Groenewegen}]{Marigo:1999va}
+Marigo, P., Girardi, L., Weiss, A., \& Groenewegen, M. A.~T. 1999, A{\&}A, 351,
+  161
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...351..161M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2009)Marino, Milone, Piotto, Villanova, Bedin,
+  Bellini, \& Renzini}]{Marino:2009je}
+Marino, A.~F., Milone, A.~P., Piotto, G., Villanova, S., Bedin, L.~R., Bellini,
+  A., \& Renzini, A. 2009, A{\&}A, 505, 1099
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...505.1099M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2011{\natexlab{a}})Marino, Villanova, Milone, Piotto,
+  Lind, Geisler, \& Stetson}]{Marino:2011hu}
+Marino, A.~F., Villanova, S., Milone, A.~P., Piotto, G., Lind, K., Geisler, D.,
+  \& Stetson, P.~B. 2011{\natexlab{a}}, ApJL, 730, L16
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJ...730L..16M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2008)Marino, Villanova, Piotto, Milone, Momany,
+  Bedin, \& Medling}]{Marino:2008du}
+Marino, A.~F., Villanova, S., Piotto, G., Milone, A.~P., Momany, Y., Bedin,
+  L.~R., \& Medling, A.~M. 2008, A{\&}A, 490, 625
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...490..625M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2011{\natexlab{b}})Marino, Sneden, Kraft,
+  Wallerstein, Norris, Da~Costa, Milone, Ivans, Gonzalez, Fulbright, Hilker,
+  Piotto, Zoccali, \& Stetson}]{Marino:2011kz}
+Marino, A.~F., {et~al.} 2011{\natexlab{b}}, A{\&}A, 532, 8
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...532A...8M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2012)Marino, Milone, Sneden, Bergemann, Kraft,
+  Wallerstein, Cassisi, Aparicio, Asplund, Bedin, Hilker, Lind, Momany, Piotto,
+  Roederer, Stetson, \& Zoccali}]{Marino:2012db}
+---. 2012, A{\&}A, 541, 15
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...541A..15M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2014)Marino, Milone, Przybilla, Bergemann, Lind,
+  Asplund, Cassisi, Catelan, Casagrande, Valcarce, Bedin, Cort{\'e}s, D'Antona,
+  Jerjen, Piotto, Schlesinger, Zoccali, \& Angeloni}]{Marino:2014fj}
+---. 2014, MNRAS, 437, 1609
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.437.1609M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Marino {et~al.}(2015)Marino, Milone, Karakas, Casagrande, Yong,
+  Shingles, Da~Costa, Norris, Stetson, Lind, Asplund, Collet, Jerjen, Sbordone,
+  Aparicio, \& Cassisi}]{Marino:2015ed}
+---. 2015, MNRAS, 450, 815
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.450..815M&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{McSaveney {et~al.}(2007)McSaveney, Wood, Scholz, Lattanzio, \&
+  Hinkle}]{McSaveney:2007ks}
+McSaveney, J.~A., Wood, P.~R., Scholz, M., Lattanzio, J.~C., \& Hinkle, K.~H.
+  2007, MNRAS, 378, 1089
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007MNRAS.378.1089M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Merrill(1952)}]{Merrill:1952fi}
+Merrill, S. P.~W. 1952, ApJ, 116, 21
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1952ApJ...116...21M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Meyer(1994)}]{Meyer:1994br}
+Meyer, B.~S. 1994, ARA{\&}A, 32, 153
+{}
+ \href{http://adsabs.harvard.edu/abs/1994ARA%26A..32..153M}{\urllinklabel}
+
+\bibitem[{Miglio {et~al.}(2012)Miglio, Brogaard, Stello, Chaplin, D'Antona,
+  Montalb{\'a}n, Basu, Bressan, Grundahl, Pinsonneault, Serenelli, Elsworth,
+  Hekker, Kallinger, Mosser, Ventura, Bonanno, \& {et al.}}]{Miglio:2012dm}
+Miglio, A., {et~al.} 2012, MNRAS, 419, 2077
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012MNRAS.419.2077M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Milingo {et~al.}(2010)Milingo, Kwitter, Henry, \&
+  Souza}]{Milingo:2010er}
+Milingo, J.~B., Kwitter, K.~B., Henry, R. B.~C., \& Souza, S.~P. 2010, ApJ,
+  711, 619
+{}
+ \href{http://adsabs.harvard.edu/abs/2010ApJ...711..619M}{\urllinklabel}
+
+\bibitem[{Miller~Bertolami \& Althaus(2006)}]{MillerBertolami:2006ko}
+Miller~Bertolami, M.~M., \& Althaus, L.~G. 2006, A{\&}A, 454, 845
+{}
+ \href{http://www.aanda.org/10.1051/0004-6361:20054723}{\urllinklabel}
+
+\bibitem[{Milone {et~al.}(2008)Milone, Bedin, Piotto, Anderson, King,
+  Sarajedini, Dotter, Chaboyer, Marin~Franch, Majewski, Aparicio, Hempel,
+  Paust, Reid, Rosenberg, \& Siegel}]{Milone:2008dz}
+Milone, A.~P., {et~al.} 2008, ApJ, 673, 241
+{}
+ \href{http://stacks.iop.org/0004-637X/673/i=1/a=241}{\urllinklabel}
+
+\bibitem[{Miszalski {et~al.}(2013)Miszalski, Boffin, Jones, Karakas, Koppen,
+  Tyndall, Mohamed, Rodriguez-Gil, \& Santander-Garcia}]{Miszalski:2013gi}
+Miszalski, B., {et~al.} 2013, MNRAS, 436, 3068
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.tmp.2472M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Miyaji {et~al.}(1980)Miyaji, Nomoto, Yokoi, \&
+  Sugimoto}]{Miyaji:1980uz}
+Miyaji, S., Nomoto, K., Yokoi, K., \& Sugimoto, D. 1980, PASJ, 32, 303
+{}
+ \href{http://adsabs.harvard.edu/abs/1980PASJ...32..303M}{\urllinklabel}
+
+\bibitem[{Moc{\'a}k {et~al.}(2011)Moc{\'a}k, Siess, \&
+  M{\"u}ller}]{Mocak:2011jk}
+Moc{\'a}k, M., Siess, L., \& M{\"u}ller, E. 2011, A{\&}A, 533, 53
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...533A..53M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Moehler(2001)}]{Moehler:2001gc}
+Moehler, S. 2001, PASP, 113, 1162
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001PASP..113.1162M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Mowlavi(1999{\natexlab{a}})}]{Mowlavi:1999ul}
+Mowlavi, N. 1999{\natexlab{a}}, A{\&}A, 344, 617
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...344..617M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Mowlavi(1999{\natexlab{b}})}]{Mowlavi:1999ut}
+---. 1999{\natexlab{b}}, A{\&}A, 350, 73
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999A%26A...350...73M&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{{National Research Council}(2008)}]{Eggert:2008ux}
+{National Research Council}. 2008, {Minerals, Critical Minerals, and the U.S.
+  Economy} (The National Academies Press)
+{}
+ \href{http://www.nap.edu/catalog/12034/minerals-critical-minerals-and-the-us-economy}{\urllinklabel}
+
+\bibitem[{Nomoto {et~al.}(2013)Nomoto, Kobayashi, \& Tominaga}]{Nomoto:2013js}
+Nomoto, K., Kobayashi, C., \& Tominaga, N. 2013, ARA{\&}A, 51, 457
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ARA%26A..51..457N&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Norris(2004)}]{Norris:2004jg}
+Norris, J.~E. 2004, ApJ, 612, L25
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ApJ...612L..25N&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Norris \& Da~Costa(1995)}]{Norris:1995kc}
+Norris, J.~E., \& Da~Costa, G.~S. 1995, ApJ, 447, 680
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1995ApJ...447..680N&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Paczy{\'{n}}ski(1970)}]{Paczynski:1970uk}
+Paczy{\'{n}}ski, B. 1970, Acta Astron., 20, 47
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1970AcA....20...47P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Paczy{\'{n}}ski(1974)}]{Paczynski:1974kf}
+---. 1974, ApJ, 192, 483
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/153080}{\urllinklabel}
+
+\bibitem[{Pagel(2009)}]{Pagel:2009ws}
+Pagel, B. E.~J. 2009, {Nucleosynthesis and Chemical Evolution of Galaxies},
+  second edition edn. (Cambridge University Press)
+{}
+ \href{http://books.google.com.au/books?id=CV_16Keo2j8C&dq=isbn:9780521840309&hl=&cd=1&source=gbs_api}{\urllinklabel}
+
+\bibitem[{Pasquini {et~al.}(2011)Pasquini, Mauas, K{\"a}ufl, \&
+  Cacciari}]{Pasquini:2011kf}
+Pasquini, L., Mauas, P., K{\"a}ufl, H.~U., \& Cacciari, C. 2011, A{\&}A, 531,
+  A35
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...531A..35P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Paxton {et~al.}(2011)Paxton, Bildsten, Dotter, Herwig, Lesaffre, \&
+  Timmes}]{Paxton:2011jf}
+Paxton, B., Bildsten, L., Dotter, A., Herwig, F., Lesaffre, P., \& Timmes,
+  F.~X. 2011, ApJS, 192, 3
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJS..192....3P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Pellegriti {et~al.}(2008)Pellegriti, Hammache, Roussel, Audouin,
+  Beaumel, Descouvemont, Fortier, Gaudefroy, Kiener, Lefebvre-Schuhl, Stanoiu,
+  Tatischeff, \& Vilmay}]{Pellegriti:2008ii}
+Pellegriti, M., {et~al.} 2008, A{\&}A, 77, 042801
+{}
+ \href{http://link.aps.org/doi/10.1103/PhysRevC.77.042801}{\urllinklabel}
+
+\bibitem[{Penzias \& Wilson(1965)}]{Penzias:1965es}
+Penzias, A.~A., \& Wilson, R.~W. 1965, ApJ, 142, 419
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/148307}{\urllinklabel}
+
+\bibitem[{Peters(1968)}]{Peters:1968bf}
+Peters, J.~G. 1968, ApJ, 154, 225
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1968ApJ...154..225P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Peterson(1980)}]{Peterson:1980ca}
+Peterson, R.~C. 1980, ApJ, 237, L87
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/157950}{\urllinklabel}
+
+\bibitem[{Piersanti {et~al.}(2013)Piersanti, Cristallo, \&
+  Straniero}]{Piersanti:2013dh}
+Piersanti, L., Cristallo, S., \& Straniero, O. 2013, ApJ, 774, 98
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013ApJ...774...98P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Piotto(2009)}]{Piotto:2009ds}
+Piotto, G. 2009, The Ages of Stars, 258, 233
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009IAUS..258..233P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Piotto {et~al.}(2005)Piotto, Villanova, Bedin, Gratton, Cassisi,
+  Momany, Recio~Blanco, Lucatello, Anderson, King, Pietrinferni, \&
+  Carraro}]{Piotto:2005ii}
+Piotto, G., {et~al.} 2005, ApJ, 621, 777
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ApJ...621..777P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Piotto {et~al.}(2007)Piotto, Bedin, Anderson, King, Cassisi, Milone,
+  Villanova, Pietrinferni, \& Renzini}]{Piotto:2007br}
+---. 2007, ApJ, 661, L53
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007ApJ...661L..53P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Pottasch \& Bernard-Salas(2010)}]{Pottasch:2010jt}
+Pottasch, S.~R., \& Bernard-Salas, J. 2010, A{\&}A, 517, 95
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010A%26A...517A..95P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Pottasch {et~al.}(2011)Pottasch, Surendiranath, \&
+  Bernard-Salas}]{Pottasch:2011ed}
+Pottasch, S.~R., Surendiranath, R., \& Bernard-Salas, J. 2011, A{\&}A, 531, 23
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...531A..23P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Prantzos \& Charbonnel(2006)}]{Prantzos:2006cv}
+Prantzos, N., \& Charbonnel, C. 2006, A{\&}A, 458, 135
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006A%26A...458..135P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Prantzos {et~al.}(2007)Prantzos, Charbonnel, \&
+  Iliadis}]{Prantzos:2007bs}
+Prantzos, N., Charbonnel, C., \& Iliadis, C. 2007, A{\&}A, 470, 179
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...470..179P&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Raiteri {et~al.}(1992)Raiteri, Gallino, \& Busso}]{Raiteri:1992dn}
+Raiteri, C.~M., Gallino, R., \& Busso, M. 1992, ApJ, 387, 263
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1992ApJ...387..263R&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Raiteri {et~al.}(1993)Raiteri, Gallino, Busso, Neuberger, \&
+  Kaeppeler}]{Raiteri:1993ff}
+Raiteri, C.~M., Gallino, R., Busso, M., Neuberger, D., \& Kaeppeler, F. 1993,
+  The Astrophysical Journal, 419, 207
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/173476}{\urllinklabel}
+
+\bibitem[{Rauscher \& Thielemann(2000)}]{Rauscher:2000gg}
+Rauscher, T., \& Thielemann, F.-K. 2000, Atomic Data and Nuclear Data Tables,
+  75, 1
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000ADNDT..75....1R&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Reimers(1975)}]{Reimers:1975vw}
+Reimers, D. 1975, Mem. Soc. R. Sci. Li{\`e}ge, 8, 369
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1975MSRSL...8..369R&link_type=GIF}{\urllinklabel}
+
+\bibitem[{Renzini \& Voli(1981)}]{Renzini:1981ul}
+Renzini, A., \& Voli, M. 1981, A{\&}A, 94, 175
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1981A%26A....94..175R&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Roederer {et~al.}(2011)Roederer, Marino, \& Sneden}]{Roederer:2011hw}
+Roederer, I.~U., Marino, A.~F., \& Sneden, C. 2011, ApJ, 742, 37
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJ...742...37R&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Roeser(1975)}]{Roeser:1975ws}
+Roeser, M. 1975, A{\&}A, 45, 335
+{}
+ \href{http://adsabs.harvard.edu/abs/1975A&A....45..335R}{\urllinklabel}
+
+\bibitem[{Romano {et~al.}(2010)Romano, Karakas, Tosi, \&
+  Matteucci}]{Romano:2010hf}
+Romano, D., Karakas, A.~I., Tosi, M., \& Matteucci, F. 2010, A{\&}A, 522, 32
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010A%26A...522A..32R&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Romano {et~al.}(2007)Romano, Matteucci, Tosi, Pancino, Bellazzini,
+  Ferraro, Limongi, \& Sollima}]{Romano:2007ks}
+Romano, D., Matteucci, F., Tosi, M., Pancino, E., Bellazzini, M., Ferraro,
+  F.~R., Limongi, M., \& Sollima, A. 2007, MNRAS, 376, 405
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007MNRAS.376..405R&link_type=PREPRINT}{\urllinklabel}
+
+\bibitem[{Rose(1966)}]{Rose:1966bu}
+Rose, W.~K. 1966, ApJ, 146, 838
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/148959}{\urllinklabel}
+
+\bibitem[{Sackmann(1980{\natexlab{a}})}]{Sackmann:1980dn}
+Sackmann, I.-J. 1980{\natexlab{a}}, ApJ, 241, L37
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/183355}{\urllinklabel}
+
+\bibitem[{Sackmann(1980{\natexlab{b}})}]{Sackmann:1980ed}
+---. 1980{\natexlab{b}}, ApJ, 235, 554
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/157658}{\urllinklabel}
+
+\bibitem[{Salpeter(1955)}]{Salpeter:1955hz}
+Salpeter, E.~E. 1955, ApJ, 121, 161
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/145971}{\urllinklabel}
+
+\bibitem[{Sanders(1967)}]{Sanders:1967bm}
+Sanders, R.~H. 1967, ApJ, 150, 971
+{}
+ \href{http://adsabs.harvard.edu/abs/1967ApJ...150..971S}{\urllinklabel}
+
+\bibitem[{Scalo(1978)}]{Scalo:1978ke}
+Scalo, J.~M. 1978, ApJ, 221, 627
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/156066}{\urllinklabel}
+
+\bibitem[{Schmidt(1959)}]{Schmidt:1959bp}
+Schmidt, M. 1959, ApJ, 129, 243
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/146614}{\urllinklabel}
+
+\bibitem[{Schoenberner(1979)}]{Schoenberner:1979vv}
+Schoenberner, D. 1979, A{\&}A, 79, 108
+{}
+ \href{http://adsabs.harvard.edu/abs/1979A&A....79..108S}{\urllinklabel}
+
+\bibitem[{Schwarzschild \& Harm(1965)}]{Schwarzschild:1965dy}
+Schwarzschild, M., \& Harm, R. 1965, ApJ, 142, 855
+{}
+ \href{http://adsabs.harvard.edu/abs/1965ApJ...142..855S}{\urllinklabel}
+
+\bibitem[{Shetrone(1996)}]{Shetrone:1996hp}
+Shetrone, M.~D. 1996, AJ, 112, 1517
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1996AJ....112.1517S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Shingles {et~al.}(2015)Shingles, Doherty, Karakas, Stancliffe,
+  Lattanzio, \& Lugaro}]{Shingles:2015cd}
+Shingles, L.~J., Doherty, C.~L., Karakas, A.~I., Stancliffe, R.~J., Lattanzio,
+  J.~C., \& Lugaro, M.~A. 2015, MNRAS, 452, 2804
+{}
+ \href{http://mnras.oxfordjournals.org/content/452/3/2804}{\urllinklabel}
+
+\bibitem[{Shingles \& Karakas(2013)}]{Shingles:2013kg}
+Shingles, L.~J., \& Karakas, A.~I. 2013, MNRAS, 431, 2861
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.431.2861S&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Shingles {et~al.}(2014)Shingles, Karakas, Hirschi, Fishlock, Yong,
+  Da~Costa, \& Marino}]{Shingles:2014ja}
+Shingles, L.~J., Karakas, A.~I., Hirschi, R., Fishlock, C.~K., Yong, D.,
+  Da~Costa, G.~S., \& Marino, A.~F. 2014, ApJ, 795, 34
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...795...34S&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Siess(2006)}]{Siess:2006ki}
+Siess, L. 2006, A{\&}A, 448, 717
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006A%26A...448..717S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Siess(2007)}]{Siess:2007ih}
+---. 2007, A{\&}A, 476, 893
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...476..893S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Siess(2010)}]{Siess:2010hj}
+---. 2010, A{\&}A, 512, A10
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010A%26A...512A..10S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Siess {et~al.}(2004)Siess, Goriely, \& Langer}]{Siess:2004eh}
+Siess, L., Goriely, S., \& Langer, N. 2004, A{\&}A, 415, 1089
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004A%26A...415.1089S&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Simmerer {et~al.}(2004)Simmerer, Sneden, Cowan, Collier, Woolf, \&
+  Lawler}]{Simmerer:2004ib}
+Simmerer, J., Sneden, C., Cowan, J.~J., Collier, J., Woolf, V.~M., \& Lawler,
+  J.~E. 2004, ApJ, 617, 1091
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004ApJ...617.1091S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Simmerer {et~al.}(2003)Simmerer, Sneden, Ivans, Kraft, Shetrone, \&
+  Smith}]{Simmerer:2003kg}
+Simmerer, J., Sneden, C., Ivans, I.~I., Kraft, R.~P., Shetrone, M.~D., \&
+  Smith, V.~V. 2003, AJ, 125, 2018
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003AJ....125.2018S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Smith {et~al.}(2000)Smith, Suntzeff, Cunha, Gallino, Busso, Lambert,
+  \& Straniero}]{Smith:2000cb}
+Smith, V.~V., Suntzeff, N.~B., Cunha, K., Gallino, R., Busso, M., Lambert,
+  D.~L., \& Straniero, O. 2000, AJ, 119, 1239
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000AJ....119.1239S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Sneden {et~al.}(2008)Sneden, Cowan, \& Gallino}]{Sneden:2008cf}
+Sneden, C., Cowan, J.~J., \& Gallino, R. 2008, ARA{\&}A, 46, 241
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ARA%26A..46..241S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Sneden {et~al.}(2000)Sneden, Johnson, Kraft, Smith, Cowan, \&
+  Bolte}]{Sneden:2000ba}
+Sneden, C., Johnson, J., Kraft, R.~P., Smith, G.~H., Cowan, J.~J., \& Bolte,
+  M.~S. 2000, ApJ, 536, L85
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000ApJ...536L..85S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Sneden {et~al.}(1997)Sneden, Kraft, Shetrone, Smith, Langer, \&
+  Prosser}]{Sneden:1997fp}
+Sneden, C., Kraft, R.~P., Shetrone, M.~D., Smith, G.~H., Langer, G.~E., \&
+  Prosser, C.~F. 1997, AJ, 114, 1964
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/bib_query?1997AJ....114.1964S}{\urllinklabel}
+
+\bibitem[{Sobeck {et~al.}(2011)Sobeck, Kraft, Sneden, Preston, Cowan, Smith,
+  Thompson, Shectman, \& Burley}]{Sobeck:2011dv}
+Sobeck, J.~S., {et~al.} 2011, AJ, 141, 175
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011AJ....141..175S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Stancliffe {et~al.}(2011)Stancliffe, Dearborn, Lattanzio, Heap, \&
+  Campbell}]{Stancliffe:2011dw}
+Stancliffe, R.~J., Dearborn, D. S.~P., Lattanzio, J.~C., Heap, S.~A., \&
+  Campbell, S.~W. 2011, ApJ, 742, 121
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011ApJ...742..121S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Stancliffe \& Jeffery(2007)}]{Stancliffe:2007er}
+Stancliffe, R.~J., \& Jeffery, C.~S. 2007, MNRAS, 375, 1280
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007MNRAS.375.1280S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Stancliffe {et~al.}(2004)Stancliffe, Tout, \&
+  Pols}]{Stancliffe:2004ea}
+Stancliffe, R.~J., Tout, C.~A., \& Pols, O.~R. 2004, MNRAS, 352, 984
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2004MNRAS.352..984S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Sterling \& Dinerstein(2008)}]{Sterling:2008dq}
+Sterling, N.~C., \& Dinerstein, H.~L. 2008, ApJS, 174, 158
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJS..174..158S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Straniero {et~al.}(2014)Straniero, Cristallo, \&
+  Piersanti}]{Straniero:2014jk}
+Straniero, O., Cristallo, S., \& Piersanti, L. 2014, ApJ, 785, 77
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...785...77S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Straniero {et~al.}(2003)Straniero, Dominguez, Cristallo, \&
+  Gallino}]{Straniero:2003ho}
+Straniero, O., Dominguez, I., Cristallo, S., \& Gallino, R. 2003, Publ. Astron.
+  Soc. Aust., 20, 389
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003PASA...20..389S&link_type=PREPRINT}{\urllinklabel}
+
+\bibitem[{Straniero {et~al.}(1995)Straniero, Gallino, Busso, Chieffi, Raiteri,
+  Limongi, \& Salaris}]{Straniero:1995ed}
+Straniero, O., Gallino, R., Busso, M., Chieffi, A., Raiteri, C.~M., Limongi,
+  M., \& Salaris, M. 1995, ApJ, 440, L85
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1995ApJ...440L..85S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Straniero {et~al.}(2006)Straniero, Gallino, \&
+  Cristallo}]{Straniero:2006do}
+Straniero, O., Gallino, R., \& Cristallo, S. 2006, Nuc. Phys. A, 777, 311
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006NuPhA.777..311S&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Sweigart(1999)}]{Sweigart:1999tt}
+Sweigart, A.~V. 1999, New Views of the Magellanic Clouds, 190, 370
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999IAUS..190..370S&link_type=PREPRINT}{\urllinklabel}
+
+\bibitem[{The {et~al.}(2007)The, El~Eid, \& Meyer}]{The:2007gb}
+The, L.-S., El~Eid, M.~F., \& Meyer, B.~S. 2007, ApJ, 655, 1058
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007ApJ...655.1058T&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Thielemann {et~al.}(2011)Thielemann, Arcones, K{\"a}ppeli,
+  Liebend{\"o}rfer, Rauscher, Winteler, Fr{\"o}hlich, Dillmann, Fischer,
+  Mart{\'\i}nez-Pinedo, Langanke, Farouqi, Kratz, Panov, \&
+  Korneev}]{Thielemann:2011iy}
+Thielemann, F.-K., {et~al.} 2011, Progress in Particle and Nuclear Physics, 66,
+  346
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011PrPNP..66..346T&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Travaglio {et~al.}(1999)Travaglio, Galli, Gallino, Busso, Ferrini, \&
+  Straniero}]{Travaglio:1999jf}
+Travaglio, C., Galli, D., Gallino, R., Busso, M., Ferrini, F., \& Straniero, O.
+  1999, ApJ, 521, 691
+{}
+ \href{http://stacks.iop.org/0004-637X/521/i=2/a=691}{\urllinklabel}
+
+\bibitem[{Travaglio {et~al.}(2001)Travaglio, Gallino, Busso, \&
+  Gratton}]{Travaglio:2001en}
+Travaglio, C., Gallino, R., Busso, M., \& Gratton, R. 2001, ApJ, 549, 346
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001ApJ...549..346T&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Tur {et~al.}(2009)Tur, Heger, \& Austin}]{Tur:2009ji}
+Tur, C., Heger, A., \& Austin, S.~M. 2009, ApJ, 702, 1068
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009ApJ...702.1068T&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Tytler {et~al.}(2000)Tytler, O'Meara, Suzuki, \&
+  Lubin}]{Tytler:2000km}
+Tytler, D., O'Meara, J.~M., Suzuki, N., \& Lubin, D. 2000, Particle Physics and
+  the Universe, 85, 12
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2000PhST...85...12T&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Umeda {et~al.}(1999)Umeda, Nomoto, Yamaoka, \& Wanajo}]{Umeda:1999ed}
+Umeda, H., Nomoto, K., Yamaoka, H., \& Wanajo, S. 1999, ApJ, 513, 861
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1999ApJ...513..861U&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Uttenthaler {et~al.}(2007)Uttenthaler, Hron, Lebzelter, Busso,
+  Schultheis, \& K{\"a}ufl}]{Uttenthaler:2007hu}
+Uttenthaler, S., Hron, J., Lebzelter, T., Busso, M., Schultheis, M., \&
+  K{\"a}ufl, H.~U. 2007, A{\&}A, 463, 251
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...463..251U&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Van~Eck {et~al.}(2001)Van~Eck, Goriely, Jorissen, \&
+  Plez}]{VanEck:2001cj}
+Van~Eck, S., Goriely, S., Jorissen, A., \& Plez, B. 2001, Nature, 412, 793
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001Natur.412..793V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Van~Eck {et~al.}(2003)Van~Eck, Goriely, Jorissen, \&
+  Plez}]{VanEck:2003el}
+---. 2003, A{\&}A, 404, 291
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003A%26A...404..291V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{van Raai {et~al.}(2012)van Raai, Lugaro, Karakas,
+  Garc{\'\i}a-Hern{\'a}ndez, \& Yong}]{vanRaai:2012fq}
+van Raai, M.~A., Lugaro, M.~A., Karakas, A.~I., Garc{\'\i}a-Hern{\'a}ndez,
+  D.~A., \& Yong, D. 2012, A{\&}A, 540, A44
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2012A%26A...540A..44V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{van Winckel(2003)}]{vanWinckel:2003iw}
+van Winckel, H. 2003, ARA{\&}A, 41, 391
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ARA%26A..41..391V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Vassiliadis \& Wood(1993)}]{Vassiliadis:1993jk}
+Vassiliadis, E., \& Wood, P.~R. 1993, ApJ, 413, 641
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1993ApJ...413..641V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura {et~al.}(2011)Ventura, Carini, \& D'Antona}]{Ventura:2011kn}
+Ventura, P., Carini, R., \& D'Antona, F. 2011, MNRAS, 415, 3865
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011MNRAS.415.3865V&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Ventura \& D'Antona(2005{\natexlab{a}})}]{Ventura:2005ic}
+Ventura, P., \& D'Antona, F. 2005{\natexlab{a}}, A{\&}A, 439, 1075
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005A%26A...439.1075V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura \& D'Antona(2005{\natexlab{b}})}]{Ventura:2005ge}
+---. 2005{\natexlab{b}}, ApJ, 635, L149
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ApJ...635L.149V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura \& D'Antona(2008)}]{Ventura:2008iv}
+---. 2008, A{\&}A, 479, 805
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...479..805V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura \& D'Antona(2009)}]{Ventura:2009ha}
+---. 2009, A{\&}A, 499, 835
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009A%26A...499..835V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura {et~al.}(2001)Ventura, D'Antona, Mazzitelli, \&
+  Gratton}]{Ventura:2001ek}
+Ventura, P., D'Antona, F., Mazzitelli, I., \& Gratton, R. 2001, ApJ, 550, L65
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2001ApJ...550L..65V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Ventura {et~al.}(2013)Ventura, Di~Criscienzo, Carini, \&
+  D'Antona}]{Ventura:2013ct}
+Ventura, P., Di~Criscienzo, M., Carini, R., \& D'Antona, F. 2013, MNRAS, 431,
+  3642
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.431.3642V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Villanova \& Geisler(2011)}]{Villanova:2011fo}
+Villanova, S., \& Geisler, D. 2011, A{\&}A, 535, 31
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...535A..31V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Villanova {et~al.}(2010{\natexlab{a}})Villanova, Geisler, \&
+  Piotto}]{Villanova:2010bi}
+Villanova, S., Geisler, D., \& Piotto, G. 2010{\natexlab{a}}, ApJL, 722, L18
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010ApJ...722L..18V&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Villanova {et~al.}(2010{\natexlab{b}})Villanova, Piotto, Marino,
+  Milone, Bellini, Bedin, Momany, \& Renzini}]{Villanova:2010ci}
+Villanova, S., Piotto, G., Marino, A.~F., Milone, A.~P., Bellini, A., Bedin,
+  L.~R., Momany, Y., \& Renzini, A. 2010{\natexlab{b}}, IAU, 5, 326
+{}
+ \href{http://www.journals.cambridge.org/abstract_S1743921309991219}{\urllinklabel}
+
+\bibitem[{Wagoner {et~al.}(1967)Wagoner, Fowler, \& Hoyle}]{Wagoner:1967if}
+Wagoner, R.~V., Fowler, W.~A., \& Hoyle, F. 1967, ApJ, 148, 3
+{}
+ \href{http://adsabs.harvard.edu/doi/10.1086/149126}{\urllinklabel}
+
+\bibitem[{Ward {et~al.}(1976)Ward, Newman, \& Clayton}]{Ward:1976ji}
+Ward, R.~A., Newman, M.~J., \& Clayton, D.~D. 1976, Astrophysical Journal
+  Supplement, 31, 33
+{}
+ \href{http://adsabs.harvard.edu/abs/1976ApJS...31...33W}{\urllinklabel}
+
+\bibitem[{Weigert(1966)}]{Weigert:1966th}
+Weigert, A. 1966, Z. Astrophys., 64, 395
+{}
+ \href{http://adsabs.harvard.edu/abs/1966ZA.....64..395W}{\urllinklabel}
+
+\bibitem[{Werner {et~al.}(1991)Werner, Heber, \& Hunger}]{Werner:1991tn}
+Werner, K., Heber, U., \& Hunger, K. 1991, A{\&}A, 244, 437
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1991A%26A...244..437W&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Werner \& Herwig(2006)}]{Werner:2006bf}
+Werner, K., \& Herwig, F. 2006, PASP, 118, 183
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006PASP..118..183W&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Werner {et~al.}(2005)Werner, Rauch, \& Kruk}]{Werner:2005io}
+Werner, K., Rauch, T., \& Kruk, J.~W. 2005, A{\&}A, 433, 641
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005A%26A...433..641W&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Werner {et~al.}(2011)Werner, Rauch, Kruk, \& Kurucz}]{Werner:2011bl}
+Werner, K., Rauch, T., Kruk, J.~W., \& Kurucz, R.~L. 2011, A{\&}A, 531, 146
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...531A.146W&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Werner {et~al.}(2009)Werner, Rauch, Reiff, \& Kruk}]{Werner:2009fb}
+Werner, K., Rauch, T., Reiff, E., \& Kruk, J.~W. 2009, Ap{\&}SS, 320, 159
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009Ap%26SS.320..159W&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Wiescher {et~al.}(2012)Wiescher, Kappeler, \&
+  Langanke}]{Wiescher:2012is}
+Wiescher, M., Kappeler, F., \& Langanke, K. 2012, A{\&}A, 50, 165
+{}
+ \href{http://www.annualreviews.org/doi/abs/10.1146/annurev-astro-081811-125543}{\urllinklabel}
+
+\bibitem[{Woodward {et~al.}(2015)Woodward, Herwig, \& Lin}]{Woodward:2015da}
+Woodward, P.~R., Herwig, F., \& Lin, P.-H. 2015, The Astrophysical Journal,
+  798, 49
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015ApJ...798...49W&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Yong {et~al.}(2006)Yong, Aoki, Lambert, \& Paulson}]{Yong:2006ia}
+Yong, D., Aoki, W., Lambert, D.~L., \& Paulson, D.~B. 2006, ApJ, 639, 918
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2006ApJ...639..918Y&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Yong \& Grundahl(2008)}]{Yong:2008ja}
+Yong, D., \& Grundahl, F. 2008, ApJ, 672, L29
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJ...672L..29Y&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Yong {et~al.}(2008{\natexlab{a}})Yong, Karakas, Lambert, Chieffi, \&
+  Limongi}]{Yong:2008in}
+Yong, D., Karakas, A.~I., Lambert, D.~L., Chieffi, A., \& Limongi, M.
+  2008{\natexlab{a}}, ApJ, 689, 1031
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJ...689.1031Y&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Yong {et~al.}(2003)Yong, Lambert, \& Ivans}]{Yong:2003kb}
+Yong, D., Lambert, D.~L., \& Ivans, I.~I. 2003, The Astrophysical Journal, 599,
+  1357
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2003ApJ...599.1357Y&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Yong {et~al.}(2008{\natexlab{b}})Yong, Lambert, Paulson, \&
+  Carney}]{Yong:2008ib}
+Yong, D., Lambert, D.~L., Paulson, D.~B., \& Carney, B.~W. 2008{\natexlab{b}},
+  ApJ, 673, 854
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ApJ...673..854Y&link_type=ABSTRACT}{\urllinklabel}
+
+\bibitem[{Yong {et~al.}(2014)Yong, Roederer, Grundahl, Da~Costa, Karakas,
+  Norris, Aoki, Fishlock, Marino, Milone, \& Shingles}]{Yong:2014dq}
+Yong, D., {et~al.} 2014, MNRAS, 441, 3396
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014MNRAS.441.3396Y&link_type=EJOURNAL}{\urllinklabel}
+
+\bibitem[{Zamora {et~al.}(2014)Zamora, Garc{\'\i}a-Hern{\'a}ndez, Plez, \&
+  Manchado}]{Zamora:2014ch}
+Zamora, O., Garc{\'\i}a-Hern{\'a}ndez, D.~A., Plez, B., \& Manchado, A. 2014,
+  A{\&}A, 564, L4
+{}
+ \href{http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014A%26A...564L...4Z&link_type=ABSTRACT}{\urllinklabel}
+
+\end{thebibliography}
